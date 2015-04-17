@@ -1,0 +1,92 @@
+#navdiv{
+    background-color: #234465;
+}
+ul {
+    list-style-type: none;
+
+    padding: 0;
+    overflow: hidden;
+    display: block;
+    margin: -6px 0 -10px 0;
+}
+
+
+li {
+    margin: 0;
+
+    display: inline-block;
+    float: none;
+    padding-right: 15px;
+
+    text-align: center;
+    position: relative;
+    ;
+
+}
+
+span{
+    color: #ffffff;
+    font-size: 70%;
+}
+a {
+   text-decoration: none;
+    border-spacing: 50px;
+    width: 100px;
+    color: #ffffff;
+
+
+}
+
+.secontr{
+    text-align: right;
+}
+.notifications {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background: url('notificationsIcon.png') no-repeat;
+    margin: 0;
+    vertical-align: middle;
+}
+.notiftd{
+    width: 290px;
+}
+.first{
+    width: 290px;
+}
+.second{
+    width:290px;
+
+}
+.third{
+    width:215px;
+}
+.searchBar form {
+    -ms-border-radius: 5px;
+    border-radius: 5px;
+    height: 38px;
+    width: 260px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-collapse: collapse;
+    padding: 0;
+    border: 1px solid #d5d5d5;
+    background-color: #fff;
+    margin: -7px auto 0 auto;
+}
+button[type="submit"].searchButton {
+    float: right;
+    width: 32px;
+    height: 30px;
+    vertical-align: top;
+    background: transparent;
+    border: 0;
+    border-left: 1px solid #d5d5d5;
+    border-collapse: collapse;
+    margin: 0;
+
+    background-position: 7px;
+    background-repeat: no-repeat;
+}
+
+

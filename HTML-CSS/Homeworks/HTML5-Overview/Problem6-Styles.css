@@ -1,0 +1,12 @@
+body{
+    background-color: #add8e6;
+}
+p{
+    font-weight: bold;
+}
+span{
+    font-weight: normal;
+}
+dl>dt{
+    font-style: italic;
+}

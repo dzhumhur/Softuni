@@ -1,0 +1,93 @@
+body {
+    font-family: Tahoma, Helvetica, sans-serif;
+    background-color: #EDEDED;
+}
+#wrapper{
+    width: 800px;
+    margin: 10px auto;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: white;
+}
+h1{
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+#first-p{
+    text-align: center;
+    font-size: 0.84rem;
+    line-height: 120%;
+}
+section{
+    width: 70%;
+    margin: 20px auto;
+    padding: 20px 0;
+    border-top: 2px solid gray;
+}
+article{
+    display: inline-block;
+    width: 48%;
+    vertical-align: top;
+    margin: 0;
+}
+#wrapper > section > article:nth-child(1){
+    margin-right: 16px;
+}
+input{
+    width: 99%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid gray;
+}
+h2{
+    width: 90%;
+    margin-bottom: 5px;
+}
+#check-box{
+    width: 5%;
+    float: left;
+    margin: 0;
+    margin-top: 3px;
+}
+label{
+    font-size: 0.7rem;
+}
+button{
+    width: 60%;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-weight: bold;
+}
+button:hover, #login-button:hover{
+    background-color: #A0DF64;
+    cursor: pointer;
+}
+#login-button {
+    width: 30%;
+    font-weight: bold;
+}
+a{
+    color: red;
+    width: 100%;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#forgot-pass{
+    text-align: left;
+}
+.input-yes{
+    background: url("ok.png")no-repeat 235px 6px;
+}
+
+.input-no{
+    background: url("no.png")no-repeat 235px 6px;
+}

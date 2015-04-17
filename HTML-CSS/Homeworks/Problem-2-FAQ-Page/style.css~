@@ -1,0 +1,124 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: Open-sans, sans-serif;
+    background-color: #f3f3f5;
+
+
+}
+body>#header-bg{
+    width: 100%;
+    background:url("bgr.jpg") repeat-x;
+    height: 350px;
+    position: absolute;
+    z-index: -1;
+}
+
+#wrapper{
+    width: 920px;
+    margin: 0 auto;
+}
+#wrapper>header{
+    width: 920px;
+}
+
+#wrapper>header>img{
+    display: inline-block;
+    z-index: 1;
+}
+#wrapper>header>h1{
+    margin: 230px 30px 30px 505px;
+    position: absolute;
+    padding: 17px;
+    width: 230px;
+    height: 61px;
+    background-color: rgba(0,0,0,0.5);
+    font-size: 48px;
+    color: white;
+}
+#wrapper>footer{
+    width: 920px;
+}
+main{
+    vertical-align: top;
+}
+aside{
+    margin-top: 0;
+    width: 250px;
+    background-color: #4e5359;
+    color: white;
+    margin-bottom: 10px;
+}
+#left-aside{
+     height: 120px;
+     width: 251px;
+     float:left;
+     margin-top: 10px;
+}
+#left-aside:after{
+    content: "";
+    clear: both;
+    zoom:1;
+    display: block;
+}
+aside>nav>ul>li{
+    list-style: none;
+    height: 60px;
+    line-height: 60px;
+    padding-left: 20px;
+
+}
+aside>nav>ul>li:hover{
+     background-color: #42464b;
+     border:0;
+     border-left: solid 6px #2f6d6c;
+     padding-left: 14px;
+}
+aside>nav>ul>li:active{
+    background-color: #42464b;
+    border:0;
+    border-left: solid 6px  #16daa0;
+    padding-left: 14px;
+}
+#wrapper>main>section{
+
+    margin-left: 10px;
+    display: inline-block;
+    width: 655px;
+    margin-top: 10px;
+}
+#wrapper>main>section>article{
+     background-color: white;
+     margin-bottom: 20px;
+     border-top:solid 1px gray;
+     color: gray;
+    line-height: 25px;
+    padding: 10px;
+ }
+#wrapper>main>section>article>h3{
+    color:blue;
+    cursor: pointer;
+}
+#wrapper>main>section>article>header{
+    font-weight: bold;
+}
+
+#wrapper>footer{
+    padding: 10px;
+    height: 50px;
+    background-color: #c8c6cb;
+    color: gray;
+    position: absolute;
+    z-index:1;
+
+}
+
+#footer-bg{
+    background-color:#c8c6cb;
+    width: 100%;
+    height: 70px;
+    position: absolute;
+    z-index:-1;
+}

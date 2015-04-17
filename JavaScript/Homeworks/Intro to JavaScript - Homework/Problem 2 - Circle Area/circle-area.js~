@@ -1,0 +1,9 @@
+function calcCircleArea(r){
+    return Math.PI*r*r;
+}
+var arr = [7, 1.5, 20];
+for (var i = 0; i < 3; i++) {
+    var r = arr[i];
+    calcCircleArea(r);
+    document.writeln("<p>r = " + r +"; area = "+ calcCircleArea(r) + "</p>");
+}

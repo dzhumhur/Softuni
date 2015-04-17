@@ -1,0 +1,69 @@
+body{
+    font-family: Tahoma, Helvetica, sans-serif;
+    font-size: 14px;
+}
+#wrapper{
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+label{
+    display: block;
+    padding-bottom: 15px;
+    font-weight: bold;
+    color: #384A5C;
+}
+#wrapper>div{
+    background-color: #384452;
+
+}
+#wrapper>div>button{
+    background-color: #384452;
+    padding: 25px 40px;
+    color: #91A0AD;
+    border: none;
+}
+
+#wrapper>form>div{
+    display: inline-block;
+    width: 23%;
+}
+form{
+    padding: 30px;
+    background-color: #EEEEEE;
+}
+#search{
+    background: url("./resources/03-tab01.png")no-repeat -6px -3px;
+}
+#categories{
+    background: url("./resources/03-tab02.png") no-repeat -6px -3px;
+}
+#locations{
+    background: url("./resources/03-tab03.png") no-repeat -6px -3px;
+}
+#agents{
+    background: url("./resources/03-tab04.png") no-repeat -6px -3px;
+}
+#search:hover, #categories:hover, #locations:hover, #agents:hover{
+    background-color: #00BC94;
+    color: #ffffff;
+}
+#country, #city, #post-code, #name{
+    margin-bottom: 25px;
+}
+input{
+    padding: 10px;
+    width: 169px;
+}
+#find-job{
+    padding: 10px;
+    width: 194px;
+    background-color: #384653;
+    border: none;
+    color: #E1F8F8;
+    border-radius: 2px;
+}
+#find-job:hover{
+    background-color: #00BC94;
+
+}

@@ -1,0 +1,43 @@
+@media only screen and (max-width: 999px) {
+    body{
+       min-width: 0;
+    }
+    #wrapper{
+        width: 100%;
+        margin: 0;
+    }
+    header{
+        height: auto;
+    }
+    #logoarea {
+        width: 100%;
+        padding: 0;
+    }
+    #publicphotos {
+        width: 90%;
+        margin: 0 auto;
+        padding: 20px;
+    }
+    #wrapper > section{
+        min-width: 0%;
+    }
+    #header-area-right{
+        float: none;
+        padding: 0;
+        text-align: center;
+        margin: 0 auto;
+        padding-top: 15px;
+    }
+    #menu{
+        display: block;
+        float: none;
+    }
+    #search-form{
+        width: auto;
+        float:none;
+    }
+    #publicphotos h1{
+        text-align: center;
+    }
+
+}

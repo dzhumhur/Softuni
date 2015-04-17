@@ -1,0 +1,48 @@
+table{
+    border: 1px solid black;
+}
+
+td{
+    border: 1px solid black;
+    width: 50px;
+
+}
+table.second-table{
+    width: 100%;
+
+}
+td.first-nested{
+    font-weight: bold;
+
+    font-size: xx-large;
+
+}
+td.second-nested{
+    font-weight: bold;
+
+    font-size: xx-large;
+}
+td.second {
+    width: 150px;
+    align-content: center;
+
+}
+img {
+    width: 100%;
+}
+td {
+    /*border: 1px solid black; */
+    width: 95px;
+    height: 45px;
+}
+ th {
+    display: table-cell;
+    vertical-align: inherit;
+}
+table
+{
+   /* display: table;*/
+    border-collapse: separate;
+    border-spacing: 2px;
+   /* border-color: black;*/
+}

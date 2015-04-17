@@ -1,0 +1,127 @@
+body{
+    font-family: Arial;
+}
+header::after{
+    display: block;
+    zoom: 1;
+    content: "";
+    clear: both;
+}
+
+main::after{
+    display: block;
+    zoom: 1;
+    content: "";
+    clear: both;
+}
+footer::after{
+    display: block;
+    zoom: 1;
+    content: "";
+    clear: both;
+}
+#main{
+    margin: 0 auto;
+    width: 85%;
+}
+li.head-li{
+    display: inline-block;
+    margin-top: -5rem;
+}
+.head-li>a{
+    color: gray;
+}
+nav{
+    height: 70px;
+}
+a{
+    text-decoration: none;
+    padding-right: 2.5rem;
+}
+li{
+    padding-left: 1rem;
+}
+h1 {
+    padding-left: 2rem;
+    padding-top: 2rem;
+    margin-bottom: 0.5rem;
+    font-size: 2.3rem;
+}
+ul{
+    padding-top: 5rem;
+}
+header form input {
+    width: 16.0em;
+    height: 2.2em;
+    margin-left: 37.0em;
+    padding-left: 0.5em;
+    border: none;
+    border: solid 0.1em lightgray;
+    border-right: none;
+    vertical-align: middle;
+}
+
+header form button {
+    width: 2.5em;
+    height: 2.5em;
+    background: url(search.png) no-repeat;
+    margin-left: -0.4em;
+    border: none;
+    border: solid 0.1em lightgray;
+    border-left: none;
+    vertical-align: middle;
+}
+header>nav{
+    float: left;
+    vertical-align: bottom;
+}
+form{
+    float: right;
+    vertical-align: bottom;
+}
+#left-side{
+    float: left;
+    width: 20%;
+    padding-bottom: 2rem;
+}
+#left-side>nav>ul>li{
+    padding-bottom: 1.5rem;
+
+}
+.left-side-hr{
+    margin-left: 1rem;
+}
+.first-hr{
+    margin-left: 1rem;
+}
+#left-side>nav>ul>li>a{
+    color: blue;
+}
+#middle-side{
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 4.5rem;
+}
+h2{
+    font-size: 1.8rem;
+    padding-bottom: 0.4rem;
+}
+.decoration{
+    text-decoration: underline;
+}
+.midd-p, .decoration{
+    color: darkgray;
+    font-size: 0.8rem;
+}
+.midd-p{
+    padding-bottom: 1.5rem;
+}
+.par{
+    font-size: 1.05rem;
+    color: darkgrey;
+    padding-bottom: 1rem;
+}
+article>footer>a{
+    color: blue;
+    text-decoration: underline;
+}

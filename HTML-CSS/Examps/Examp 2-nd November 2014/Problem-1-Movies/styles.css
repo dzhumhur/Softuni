@@ -1,0 +1,50 @@
+section{
+    font-family: Helvetica, Tahoma, sans-serif;
+}
+article{
+    width: 160px;
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: top;
+    margin-right: 10px;
+}
+p{
+    font-size: 12px;
+    vertical-align: bottom;
+    margin-bottom: 4px;
+    color: gray;
+    display: inline-block;
+}
+img{
+    max-width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+div.main{
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+div.main:hover{
+    background-color: #820000;
+}
+a{
+    color: blue;
+}
+a:hover{
+    color: #801716;
+}
+.second-p, .third-p{
+    margin-top: 30px;
+}
+button{
+    background: url("MoreInfo.png") center  no-repeat;
+    width: 15px;
+    height: 13px;
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid black;
+    display: inline-block;
+}
+button:hover{
+    background-color: red;
+}

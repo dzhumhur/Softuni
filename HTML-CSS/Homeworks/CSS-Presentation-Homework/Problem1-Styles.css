@@ -1,0 +1,119 @@
+#wrapper{
+    margin: 0 auto;
+    width: 550px;
+    border-bottom: double 7px blue;
+    border-top: dotted 7px yellow;
+    border-left: dashed 7px red;
+    border-right: solid 7px green;
+    margin-top: 20px;
+    box-shadow: 14px 16px 5px gray;
+}
+h1{
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    font-size: 2.2rem;
+    text-shadow: 10px 12px 14px;
+}
+#blue{
+    border: solid 2px blue;
+    border-radius: 100px;
+    margin: 0 auto;
+    width: 85%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#green{
+    border: solid 2px green;
+    border-radius: 100px;
+}
+#yellow{
+    border: solid 2px yellow;
+    border-radius: 100px;
+}
+#red{
+    border: solid 2px red;
+    border-radius: 100px;
+}
+div>div>div>div>div>p {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.first{
+    margin-left: 86px;
+    margin-bottom: 10px;
+    background: #da971e;
+    border-color: #ffaa00;
+}
+.second{
+    background: #da971e;
+    border-color: #ffaa00;
+}
+#small{
+    width: 27px;
+    height: 27px;
+    border-radius: 50%;
+    background: rgba( 150, 150, 150, 0.7);
+    position: absolute;
+    margin-left: 390px;
+    margin-top: 103px;
+}
+#medium{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background: rgba( 150, 150, 150, 0.7);
+    position: absolute;
+    margin-left: 452px;
+    margin-top: 73px;
+}
+#large{
+    width: 115px;
+    height: 70px;
+    border-radius: 50px;
+    background: rgba( 150, 150, 150, 0.7);
+    position: absolute;
+    margin-left: 495px;
+    margin-top: 20px;
+}
+#small>div{
+    border-radius: 50%;
+    border: dashed 2px white;
+    background: rgba( 150, 150, 150, 0);
+    width: 15px;
+    height: 15px;
+    margin-left: 16%;
+    margin-top: 16%;
+}
+#medium>div{
+    border-radius: 50%;
+    border: dashed 2px white;
+    background: rgba( 150, 150, 150, 0);
+    width: 30px;
+    height: 30px;
+    margin-left: 14%;
+    margin-top: 12%;
+}
+#large>div{
+    border-radius: 50px;
+    border:dashed 2px white;
+    background: rgba( 150, 150, 150, 0);
+    width: 100px;
+    height: 55px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+#large>div>span{
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 1rem;
+}
+#large>div>p {
+    text-align: center;
+    padding-top: 3%;
+    font-size: 1.5rem;
+    color: white;
+}

@@ -1,0 +1,16 @@
+div {
+    width: 198px;
+    height: 30px;
+    display: none;
+    padding: 2px;
+}
+input[type="text"] {
+    width: 195px;
+    height: 26px;
+}
+
+input[type=button] {
+    width: 195px;
+    height: 26px;
+    display: block;
+}

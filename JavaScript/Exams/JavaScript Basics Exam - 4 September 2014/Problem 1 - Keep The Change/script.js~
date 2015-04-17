@@ -1,0 +1,32 @@
+function calc(arr){
+    var bill = Number(arr[0]);
+    var mood = arr[1];
+    var result;
+
+    switch(mood){
+        case 'happy': result = bill*0.1; break;
+        case 'married': result = bill * 0.0005; break;
+        case 'drunk':
+            var current = bill*0.15;
+            var currAsString = current.toString();
+            currAsString = currAsString.substring(0,1);
+            var digit = Number(currAsString);
+            result = Math.pow(current, digit);
+            break;
+        default: result = bill * 0.05; break;
+    }
+    return result.toFixed(2);
+    //console.log(result.toFixed(2));
+}
+
+var arr = [19841999.99, 'drunk'];
+calc(arr);
+//
+//19841999.99
+//drunk
+//
+//1242192.33
+//married
+//
+//3
+//greedy

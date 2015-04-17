@@ -1,0 +1,102 @@
+#wrapper{
+    margin: 5px auto;
+    width: 330px;
+    border-radius: 5px;
+    padding: 10px;
+    background: url("./resources/formBackground.jpg");
+}
+#first {
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+#second{
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+#third{
+    margin: 0 auto;
+}
+form{
+    padding: 7px;
+    border-radius: 4px;
+    background: rgba(200, 200, 200, 0.4);
+    margin-bottom: 5px;
+    border: 1px solid white;
+    font-size: 0.8rem;
+}
+.name{
+    margin-left: 3.9rem;
+}
+.email{
+    margin-left: 3.6rem;
+}
+.phone{
+    margin-left: 3.8rem;
+}
+h1{
+    margin-bottom: 10px;
+    color: white;
+    font-weight: bold;
+}
+.address{
+    height: 5rem;
+    margin-left: 3.3rem;
+    margin-bottom: 0.3rem;
+}
+.postcode{
+    margin-left: 2.6rem;
+}
+.country{
+    margin-left: 3rem;
+}
+span{
+   float: left;
+}
+.radio1{
+    margin-left: 1.1rem;
+
+}
+.radio2 {
+    margin-left: 1.1rem;
+
+}
+.radio3 {
+    margin-left: 1.1rem;
+
+}
+p{
+    margin-bottom: 5px;
+}
+.card-num{
+    margin-left: 1.5rem;
+}
+.sec-code{
+    margin-left: 1.3rem;
+}
+.name-card{
+    margin-left: 1.2rem;
+}
+.img-visa{
+    width: 22px;
+    height: 16px;
+    background: url("./resources/icons.png") 422px 97px;
+}
+.img-amex{
+    width: 22px;
+    height: 16px;
+    background: url("./resources/icons.png") 314px 98px;
+}
+.img-mastercard{
+    width: 22px;
+    height: 16px;
+    background: url("./resources/icons.png") 368px 97px;
+}
+button{
+    border-radius: 36%;
+    background: #051934;
+    color: white;
+    border: none;
+    margin-top: 5px;
+    margin-left: 140px;
+}
+

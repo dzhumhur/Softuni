@@ -1,0 +1,29 @@
+body{
+    background-image:url("img1.jpg");
+    background-size: 100%, 100%;
+}
+h1{
+    font-size: 40px;
+    color: #ffc75b;
+}
+li{
+    list-style-type: disc;
+    color: #ffffff;
+    font-size: 35px;
+}
+
+p{
+    color: #ffffff;
+}
+div{
+    background-color: rgba(100, 100, 96, 0.4);
+    border: solid 1px #ffffff;
+    width: 95%;
+    color: #fbefcc;
+    font-size: 27px;
+
+
+}
+span{
+    color: #f4d066;
+}

@@ -1,0 +1,24 @@
+table{
+   border: 1px solid darkgray;
+    width: 400px;
+}
+tr.first td{
+    font-weight: bold;
+    font-size: xx-large;
+
+}
+
+tr.alabala td{
+    width: 160px;
+    height: 172px;
+}
+td.text{
+    width: 200px;
+}
+span.firstspan{
+    font-weight: bold;
+    font-size: 104%;
+}
+span{
+    font-size: 104%;
+}

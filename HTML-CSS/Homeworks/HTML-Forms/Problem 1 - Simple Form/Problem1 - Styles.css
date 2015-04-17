@@ -1,0 +1,79 @@
+#wrapper{
+    margin: 0 auto;
+    width: 600px;
+    padding-left: 10px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: #eeeeee;
+    height: 342px;
+}
+h1{
+    font-weight: bold;
+    color: #234465;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+#left-register {
+    float: left;
+    width: 46%;
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-top: 4px;
+}
+#right-login{
+    float: right;
+    width: 48%;
+    margin-top: 10px;
+    background: #234465;
+    height: 233px;
+    padding-left: 13px;
+    padding-top: 11px;
+}
+input {
+    width: 260px;
+    height: 30px;
+    margin-bottom: 10px;
+
+}
+#remember{
+    float: left;
+}
+#remember{
+    width: 20px;
+}
+#login{
+    width: 30%;
+    margin-left: 46px;
+    border: 2px solid #ff9c00;
+    background: #234465;
+    color: white;
+}
+#register{
+    width: 50%;
+    margin-left: 125px;
+    border: 2px solid #234465;
+    color: #234465;
+}
+label{
+    color: white;
+}
+p{
+    margin-bottom: 10px;
+}
+#second-p{
+    color: white;
+}
+.gray-span{
+    color: gray;
+}
+.blue-span{
+    color: #234465;
+}
+#first-p{
+    color: gray;
+}
+a, a:visited {
+    margin-left: 130px;
+    color: white;
+}

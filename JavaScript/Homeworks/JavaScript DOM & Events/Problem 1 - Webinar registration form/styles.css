@@ -1,0 +1,24 @@
+#wrapper{
+    margin: 0 auto;
+    width: 350px;
+    background-color: #FFF8F1;
+}
+h3{
+    text-align: center;
+}
+div>div{
+    margin: 0 auto;
+    width: 177px;
+}
+span{
+    color: red;
+}
+#registration{
+    width: 113px;
+}
+#remove{
+    width: 60px;
+}
+#active_sub{
+    display: none;
+}

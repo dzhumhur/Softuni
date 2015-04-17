@@ -1,0 +1,40 @@
+#main{
+    margin: 0 auto;
+    background: #ffc0cb;
+    width: 80%;
+    padding-left: 1rem;
+    border-radius: 8px;
+    margin-top: 15px;
+
+}
+h1{
+    text-align: center;
+    font-size: 2em;
+    padding: 15px;
+}
+img{
+    width: 286px;
+    height: 230px;
+}
+section>section{
+    display: inline-block;
+    margin: 10px;
+    vertical-align: top;
+
+}
+#main::after{
+    display: block;
+    zoom: 1;
+    content: "";
+    clear: both;
+}
+section>audio{
+    display: block;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+video{
+    object-fit: contain;
+    width: 360px;
+    height: 211px;
+}

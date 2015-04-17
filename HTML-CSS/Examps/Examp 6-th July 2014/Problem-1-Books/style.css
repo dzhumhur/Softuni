@@ -1,0 +1,56 @@
+section{
+    font-family: Tahom, Helvetica, sans-serif;
+    font-size: 11px;
+    padding: 0;
+    margin: 0;
+}
+article{
+    display: inline-block;
+}
+h6{
+    margin: 10px 0;
+}
+div{
+    margin: 0;
+    padding: 0;
+}
+#first-image{
+    background: url('book1.jpg');
+    width: 100%;
+    height: 135px;
+    border: 1px solid gray;
+}
+
+#second-image {
+    background: url('book2.jpg');
+    width: 100%;
+    height: 135px;
+    border: 1px solid gray;
+
+}
+
+#third-image {
+    background: url('book3.jpg');
+    width: 100%;
+    height: 135px;
+    border: 1px solid gray;
+
+}
+.author{
+    color: #757371;
+    margin-bottom: 5px;
+}
+.price{
+    color: #990E00;
+    margin-bottom: 5px;
+}
+article{
+    width: 145px;
+    margin: 20px;
+    box-sizing: border-box;
+}
+#second-article{
+}
+button{
+    font-size: 10px;
+}

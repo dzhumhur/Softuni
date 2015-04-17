@@ -1,0 +1,230 @@
+body{
+    background-color: #cccccc;
+}
+#wrapper {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 960px;
+    margin: 0 auto;
+    background-color: #DDDDDD;
+}
+#wrapper > header > div > ul>li>a{
+    float: right;
+}
+img{
+    width: 100%;
+    height: 100%;
+    float: left;
+    padding: 10px;
+    padding-bottom: 15px;
+}
+nav{
+    float: right;
+
+}
+#wrapper>header>div{
+    width: 30%;
+}
+li{
+    float: left;
+    padding-top: 10px;
+    width: 130px;
+    text-align: center
+;
+}
+li>a, li>a:active{
+
+    text-decoration: none;
+    padding: 15px;
+    font-family: "Pamela wants to Ride";
+    color: #ff0000;
+    font-size: 24px;
+    margin-bottom: 10px;
+
+
+}
+ul{
+    list-style: none;
+}
+header::after{
+    display: block;
+    zoom: 1;
+    content: "";
+    clear: both;
+}
+@font-face {
+    font-family: "Pamela wants to Ride";
+    src: url(./Lab-Skeleton/css/fonts/Pamela%20wants%20to%20Ride.ttf);
+}
+@font-face {
+    font-family: "Pamela want a Bike to Ride";
+    src: url(./Lab-Skeleton/css/fonts/Pamela%20want%20a%20Bike%20to%20Ride.ttf);
+}
+#wrapper > header > nav > ul > li:nth-child(4) > a{
+    padding-right: 30px;
+}
+li>a:hover{
+    color: #ff0000;
+    font-family: "Pamela want a Bike to Ride";
+
+}
+footer::after{
+    display: block;
+    zoom: 1;
+    content: "";
+    clear: both;
+}
+main::after{
+    display: block;
+    zoom: 1;
+    content: "";
+    clear: both;
+}
+p{
+    float: left;
+    width: 50%;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    line-height: 200%;
+}
+.face{
+    width:75px;
+    height: 75px;
+    background: url("./Lab-Skeleton/css/images/sprites-transparent.png") 305px 0px;
+    display: inline-flex;
+}
+.twit{
+    width:75px;
+    height: 75px;
+    background: url("./Lab-Skeleton/css/images/sprites-transparent.png") 0px 0px;
+    display: inline-flex;
+}
+.vib{
+    width:75px;
+    height: 75px;
+    background: url("./Lab-Skeleton/css/images/sprites-transparent.png") 150px 0px;
+    display: inline-flex;
+}
+.face:hover{
+    width:75px;
+    height: 75px;
+    background: url("./Lab-Skeleton/css/images/sprites-transparent.png") 305px 149px;
+    display: inline-flex;
+}
+.twit:hover{
+    width:75px;
+    height: 75px;
+    background: url("./Lab-Skeleton/css/images/sprites-transparent.png") 0px 227px;
+    display: inline-flex;
+}
+.vib:hover{
+    width:75px;
+    height: 75px;
+    background: url("./Lab-Skeleton/css/images/sprites-transparent.png") 150px 74px;
+    display: inline-flex;
+}
+#main{
+    float: right;
+    padding-right: 150px;
+
+    padding-top: 40px;
+
+}
+table{
+    background-color: #FFFF00;
+    text-align: center;
+    width: 500px;
+    height: 200px;
+    padding: 10px;
+    float: left;
+    margin: 10px;
+}
+thead{
+
+    background-color: #fea400;
+    padding: 15px;
+
+}
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    width: 83px;
+}
+tr{
+    margin-bottom: 15px;
+}
+td{
+    padding: 5px;
+    height: 20px;
+
+
+
+}
+
+td>a{
+    display: block;
+    border: 2px solid blue;
+    text-decoration: none;
+}
+.yes:hover{
+    background-color: green;
+}
+.no:hover{
+    background-color: #ff0000;
+}
+legend {
+    margin-top:50px;
+}
+input{
+    border-radius: 6px;
+    height: 22px;
+}
+fieldset {
+    margin-right: 57px;
+    float: right;
+}
+.send{
+    background-color: green;
+    text-align: center;
+    color: #000000;
+    border-radius: 10px 0px 0px 10px;
+    height: 45px;
+    cursor: pointer;
+    border: 2px solid green;
+    width: 172px;
+}
+.resent {
+    background-color: red;
+    color: #000000;
+    text-align: center;
+    border-radius: 0px 10px 10px 0;
+    height: 45px;
+    cursor: pointer;
+    border: 2px solid red;
+    width: 172px;
+
+}
+#pictures{
+    width: 500px;
+
+    float: left ;
+    display: inline-block;
+
+
+}
+.titan{
+    margin-top: 40px;
+}
+.puma{
+    margin-top: 52px;
+}
+.kfc{
+    margin-top: 2px;
+}
+.titan, .puma, .kfc{
+    float: left;
+    width: 29%;
+}
