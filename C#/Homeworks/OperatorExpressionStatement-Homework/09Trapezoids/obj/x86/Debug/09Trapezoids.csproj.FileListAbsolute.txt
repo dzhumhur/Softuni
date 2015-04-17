@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\09Trapezoids\bin\Debug\09Trapezoids.exe
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\09Trapezoids\bin\Debug\09Trapezoids.pdb
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\09Trapezoids\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\09Trapezoids\obj\x86\Debug\09Trapezoids.exe
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\09Trapezoids\obj\x86\Debug\09Trapezoids.pdb

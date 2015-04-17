@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\14Pairs\bin\Debug\14Pairs.exe
+D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\14Pairs\bin\Debug\14Pairs.pdb
+D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\14Pairs\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\14Pairs\obj\x86\Debug\14Pairs.exe
+D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\14Pairs\obj\x86\Debug\14Pairs.pdb

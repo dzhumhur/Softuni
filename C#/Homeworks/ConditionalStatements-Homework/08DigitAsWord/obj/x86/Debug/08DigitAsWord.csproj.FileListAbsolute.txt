@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\08DigitAsWord\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\08DigitAsWord\bin\Debug\08DigitAsWord.exe
+D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\08DigitAsWord\bin\Debug\08DigitAsWord.pdb
+D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\08DigitAsWord\obj\x86\Debug\08DigitAsWord.exe
+D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\08DigitAsWord\obj\x86\Debug\08DigitAsWord.pdb

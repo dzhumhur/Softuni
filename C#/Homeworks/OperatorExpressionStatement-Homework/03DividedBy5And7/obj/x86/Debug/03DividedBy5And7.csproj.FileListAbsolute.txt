@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\03DividedBy5And7\bin\Debug\03DividedBy5And7.exe
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\03DividedBy5And7\bin\Debug\03DividedBy5And7.pdb
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\03DividedBy5And7\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\03DividedBy5And7\obj\x86\Debug\03DividedBy5And7.exe
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\03DividedBy5And7\obj\x86\Debug\03DividedBy5And7.pdb

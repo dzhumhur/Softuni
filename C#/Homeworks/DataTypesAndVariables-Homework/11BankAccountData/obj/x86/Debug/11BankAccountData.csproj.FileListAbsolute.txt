@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\11BankAccountData\bin\Debug\11BankAccountData.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\11BankAccountData\bin\Debug\11BankAccountData.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\11BankAccountData\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\11BankAccountData\obj\x86\Debug\11BankAccountData.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\11BankAccountData\obj\x86\Debug\11BankAccountData.pdb

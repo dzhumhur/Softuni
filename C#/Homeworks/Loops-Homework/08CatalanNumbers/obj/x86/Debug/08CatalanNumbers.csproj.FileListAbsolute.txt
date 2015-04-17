@@ -1,0 +1,6 @@
+E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\08CatalanNumbers\bin\Debug\08CatalanNumbers.exe
+E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\08CatalanNumbers\bin\Debug\08CatalanNumbers.pdb
+E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\08CatalanNumbers\obj\x86\Debug\08CatalanNumbers.exe
+E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\08CatalanNumbers\obj\x86\Debug\08CatalanNumbers.pdb
+D:\SoftUni\C# Basic\06.Loops\Loops-Homework\08CatalanNumbers\obj\x86\Debug\08CatalanNumbers.exe
+D:\SoftUni\C# Basic\06.Loops\Loops-Homework\08CatalanNumbers\obj\x86\Debug\08CatalanNumbers.pdb

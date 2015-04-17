@@ -1,0 +1,6 @@
+E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.exe
+E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.pdb
+E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\10OddAndEvenProduct\obj\x86\Debug\10OddAndEvenProduct.exe
+E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\10OddAndEvenProduct\obj\x86\Debug\10OddAndEvenProduct.pdb
+D:\SoftUni\C# Basic\06.Loops\Loops-Homework\10OddAndEvenProduct\obj\x86\Debug\10OddAndEvenProduct.exe
+D:\SoftUni\C# Basic\06.Loops\Loops-Homework\10OddAndEvenProduct\obj\x86\Debug\10OddAndEvenProduct.pdb

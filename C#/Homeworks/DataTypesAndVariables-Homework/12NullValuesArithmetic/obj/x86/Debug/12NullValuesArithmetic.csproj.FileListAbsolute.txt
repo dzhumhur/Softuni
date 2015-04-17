@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\12NullValuesArithmetic\bin\Debug\12NullValuesArithmetic.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\12NullValuesArithmetic\bin\Debug\12NullValuesArithmetic.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\12NullValuesArithmetic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\12NullValuesArithmetic\obj\x86\Debug\12NullValuesArithmetic.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\12NullValuesArithmetic\obj\x86\Debug\12NullValuesArithmetic.pdb

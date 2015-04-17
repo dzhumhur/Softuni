@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\17Sunglasses\bin\Debug\17Sunglasses.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\17Sunglasses\bin\Debug\17Sunglasses.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\17Sunglasses\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\17Sunglasses\obj\x86\Debug\17Sunglasses.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\17Sunglasses\obj\x86\Debug\17Sunglasses.pdb

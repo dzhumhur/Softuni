@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\20BitsUp\bin\Debug\20BitsUp.exe
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\20BitsUp\bin\Debug\20BitsUp.pdb
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\20BitsUp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\20BitsUp\obj\x86\Debug\20BitsUp.exe
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\20BitsUp\obj\x86\Debug\20BitsUp.pdb

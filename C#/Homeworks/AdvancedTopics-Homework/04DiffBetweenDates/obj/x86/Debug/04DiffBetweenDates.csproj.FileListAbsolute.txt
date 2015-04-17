@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\04DiffBetweenDates\bin\Debug\04DiffBetweenDates.exe
+D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\04DiffBetweenDates\bin\Debug\04DiffBetweenDates.pdb
+D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\04DiffBetweenDates\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\04DiffBetweenDates\obj\x86\Debug\04DiffBetweenDates.exe
+D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\04DiffBetweenDates\obj\x86\Debug\04DiffBetweenDates.pdb

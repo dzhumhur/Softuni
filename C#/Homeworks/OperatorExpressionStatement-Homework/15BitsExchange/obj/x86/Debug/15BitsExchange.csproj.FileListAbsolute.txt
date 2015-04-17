@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\15BitsExchange\bin\Debug\15BitsExchange.exe
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\15BitsExchange\bin\Debug\15BitsExchange.pdb
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\15BitsExchange\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\15BitsExchange\obj\x86\Debug\15BitsExchange.exe
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\15BitsExchange\obj\x86\Debug\15BitsExchange.pdb

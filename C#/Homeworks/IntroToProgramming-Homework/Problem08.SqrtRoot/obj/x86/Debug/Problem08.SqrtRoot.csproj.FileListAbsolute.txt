@@ -1,0 +1,5 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem08.SqrtRoot\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem08.SqrtRoot\bin\Debug\Problem08.SqrtRoot.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem08.SqrtRoot\bin\Debug\Problem08.SqrtRoot.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem08.SqrtRoot\obj\x86\Debug\Problem08.SqrtRoot.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem08.SqrtRoot\obj\x86\Debug\Problem08.SqrtRoot.pdb

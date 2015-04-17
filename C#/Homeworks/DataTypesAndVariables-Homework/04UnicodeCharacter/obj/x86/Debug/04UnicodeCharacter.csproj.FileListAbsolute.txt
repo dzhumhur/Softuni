@@ -1,0 +1,5 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\04UnicodeCharacter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\04UnicodeCharacter\obj\x86\Debug\04UnicodeCharacter.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\04UnicodeCharacter\obj\x86\Debug\04UnicodeCharacter.pdb

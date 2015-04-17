@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\12FallingRocks\bin\Debug\12FallingRocks.exe
+D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\12FallingRocks\bin\Debug\12FallingRocks.pdb
+D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\12FallingRocks\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\12FallingRocks\obj\x86\Debug\12FallingRocks.exe
+D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\12FallingRocks\obj\x86\Debug\12FallingRocks.pdb

@@ -1,0 +1,6 @@
+E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\06CalculateNfactDivKfact\bin\Debug\06CalculateNfactDivKfact.exe
+E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\06CalculateNfactDivKfact\bin\Debug\06CalculateNfactDivKfact.pdb
+E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\06CalculateNfactDivKfact\obj\x86\Debug\06CalculateNfactDivKfact.exe
+E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\06CalculateNfactDivKfact\obj\x86\Debug\06CalculateNfactDivKfact.pdb
+D:\SoftUni\C# Basic\06.Loops\Loops-Homework\06CalculateNfactDivKfact\obj\x86\Debug\06CalculateNfactDivKfact.exe
+D:\SoftUni\C# Basic\06.Loops\Loops-Homework\06CalculateNfactDivKfact\obj\x86\Debug\06CalculateNfactDivKfact.pdb

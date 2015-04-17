@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\07PointInACircle\bin\Debug\07PointInACircle.exe
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\07PointInACircle\bin\Debug\07PointInACircle.pdb
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\07PointInACircle\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\07PointInACircle\obj\x86\Debug\07PointInACircle.exe
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\07PointInACircle\obj\x86\Debug\07PointInACircle.pdb

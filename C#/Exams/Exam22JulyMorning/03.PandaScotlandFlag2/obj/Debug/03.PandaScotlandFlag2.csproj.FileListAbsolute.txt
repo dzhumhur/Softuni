@@ -1,0 +1,6 @@
+C:\Users\Djumi\Desktop\Exam-25July2014\Exam22JulyMorning\03.PandaScotlandFlag2\bin\Debug\03.PandaScotlandFlag2.exe.config
+C:\Users\Djumi\Desktop\Exam-25July2014\Exam22JulyMorning\03.PandaScotlandFlag2\bin\Debug\03.PandaScotlandFlag2.exe
+C:\Users\Djumi\Desktop\Exam-25July2014\Exam22JulyMorning\03.PandaScotlandFlag2\bin\Debug\03.PandaScotlandFlag2.pdb
+C:\Users\Djumi\Desktop\Exam-25July2014\Exam22JulyMorning\03.PandaScotlandFlag2\obj\Debug\03.PandaScotlandFlag2.csprojResolveAssemblyReference.cache
+C:\Users\Djumi\Desktop\Exam-25July2014\Exam22JulyMorning\03.PandaScotlandFlag2\obj\Debug\03.PandaScotlandFlag2.exe
+C:\Users\Djumi\Desktop\Exam-25July2014\Exam22JulyMorning\03.PandaScotlandFlag2\obj\Debug\03.PandaScotlandFlag2.pdb

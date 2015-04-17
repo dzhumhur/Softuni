@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\08NumbersFrom1ToN\bin\Debug\08NumbersFrom1ToN.exe
+D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\08NumbersFrom1ToN\bin\Debug\08NumbersFrom1ToN.pdb
+D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\08NumbersFrom1ToN\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\08NumbersFrom1ToN\obj\x86\Debug\08NumbersFrom1ToN.exe
+D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\08NumbersFrom1ToN\obj\x86\Debug\08NumbersFrom1ToN.pdb

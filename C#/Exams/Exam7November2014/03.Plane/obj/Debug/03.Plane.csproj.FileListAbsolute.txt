@@ -1,0 +1,6 @@
+C:\Users\Djumi\Desktop\Exam7November2014\Exam7November2014\03.Plane\bin\Debug\03.Plane.exe.config
+C:\Users\Djumi\Desktop\Exam7November2014\Exam7November2014\03.Plane\bin\Debug\03.Plane.exe
+C:\Users\Djumi\Desktop\Exam7November2014\Exam7November2014\03.Plane\bin\Debug\03.Plane.pdb
+C:\Users\Djumi\Desktop\Exam7November2014\Exam7November2014\03.Plane\obj\Debug\03.Plane.csprojResolveAssemblyReference.cache
+C:\Users\Djumi\Desktop\Exam7November2014\Exam7November2014\03.Plane\obj\Debug\03.Plane.exe
+C:\Users\Djumi\Desktop\Exam7November2014\Exam7November2014\03.Plane\obj\Debug\03.Plane.pdb

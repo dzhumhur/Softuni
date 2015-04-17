@@ -1,0 +1,5 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem10.ReformatCSharpCode\bin\Debug\Problem10.ReformatCSharpCode.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem10.ReformatCSharpCode\bin\Debug\Problem10.ReformatCSharpCode.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem10.ReformatCSharpCode\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem10.ReformatCSharpCode\obj\x86\Debug\Problem10.ReformatCSharpCode.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem10.ReformatCSharpCode\obj\x86\Debug\Problem10.ReformatCSharpCode.pdb

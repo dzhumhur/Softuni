@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\11NumberAsWords\bin\Debug\11NumberAsWords.exe
+D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\11NumberAsWords\bin\Debug\11NumberAsWords.pdb
+D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\11NumberAsWords\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\11NumberAsWords\obj\x86\Debug\11NumberAsWords.exe
+D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\11NumberAsWords\obj\x86\Debug\11NumberAsWords.pdb

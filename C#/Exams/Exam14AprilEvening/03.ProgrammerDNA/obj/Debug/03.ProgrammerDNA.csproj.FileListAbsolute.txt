@@ -1,0 +1,6 @@
+C:\Users\Djumi\Desktop\Exam14AprilEvening\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.exe.config
+C:\Users\Djumi\Desktop\Exam14AprilEvening\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.exe
+C:\Users\Djumi\Desktop\Exam14AprilEvening\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.pdb
+C:\Users\Djumi\Desktop\Exam14AprilEvening\03.ProgrammerDNA\obj\Debug\03.ProgrammerDNA.csprojResolveAssemblyReference.cache
+C:\Users\Djumi\Desktop\Exam14AprilEvening\03.ProgrammerDNA\obj\Debug\03.ProgrammerDNA.exe
+C:\Users\Djumi\Desktop\Exam14AprilEvening\03.ProgrammerDNA\obj\Debug\03.ProgrammerDNA.pdb

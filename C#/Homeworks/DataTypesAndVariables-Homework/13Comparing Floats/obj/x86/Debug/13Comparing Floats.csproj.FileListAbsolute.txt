@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\13Comparing Floats\bin\Debug\13Comparing Floats.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\13Comparing Floats\bin\Debug\13Comparing Floats.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\13Comparing Floats\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\13Comparing Floats\obj\x86\Debug\13Comparing Floats.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\13Comparing Floats\obj\x86\Debug\13Comparing Floats.pdb

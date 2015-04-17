@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\15House\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\15House\bin\Debug\15House.exe
+D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\15House\bin\Debug\15House.pdb
+D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\15House\obj\x86\Debug\15House.exe
+D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\15House\obj\x86\Debug\15House.pdb

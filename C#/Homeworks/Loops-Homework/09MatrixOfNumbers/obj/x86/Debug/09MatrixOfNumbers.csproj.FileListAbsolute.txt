@@ -1,0 +1,6 @@
+E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\09MatrixOfNumbers\bin\Debug\09MatrixOfNumbers.exe
+E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\09MatrixOfNumbers\bin\Debug\09MatrixOfNumbers.pdb
+E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\09MatrixOfNumbers\obj\x86\Debug\09MatrixOfNumbers.exe
+E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\09MatrixOfNumbers\obj\x86\Debug\09MatrixOfNumbers.pdb
+D:\SoftUni\C# Basic\06.Loops\Loops-Homework\09MatrixOfNumbers\obj\x86\Debug\09MatrixOfNumbers.exe
+D:\SoftUni\C# Basic\06.Loops\Loops-Homework\09MatrixOfNumbers\obj\x86\Debug\09MatrixOfNumbers.pdb

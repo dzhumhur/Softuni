@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\13CheckBitAtGivenPosition\bin\Debug\13CheckBitAtGivenPosition.exe
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\13CheckBitAtGivenPosition\bin\Debug\13CheckBitAtGivenPosition.pdb
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\13CheckBitAtGivenPosition\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\13CheckBitAtGivenPosition\obj\x86\Debug\13CheckBitAtGivenPosition.exe
+D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\13CheckBitAtGivenPosition\obj\x86\Debug\13CheckBitAtGivenPosition.pdb
