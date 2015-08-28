@@ -1,0 +1,10 @@
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\01. EntityFrameworkMapping\bin\Debug\_01.EntityFrameworkMapping.exe.config
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\01. EntityFrameworkMapping\obj\Debug\01. EntityFrameworkMapping.csprojResolveAssemblyReference.cache
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\01. EntityFrameworkMapping\bin\Debug\_01.EntityFrameworkMapping.exe
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\01. EntityFrameworkMapping\bin\Debug\_01.EntityFrameworkMapping.pdb
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\01. EntityFrameworkMapping\bin\Debug\EntityFramework.dll
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\01. EntityFrameworkMapping\bin\Debug\EntityFramework.SqlServer.dll
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\01. EntityFrameworkMapping\bin\Debug\EntityFramework.xml
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\01. EntityFrameworkMapping\bin\Debug\EntityFramework.SqlServer.xml
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\01. EntityFrameworkMapping\obj\Debug\_01.EntityFrameworkMapping.exe
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\01. EntityFrameworkMapping\obj\Debug\_01.EntityFrameworkMapping.pdb

@@ -1,0 +1,12 @@
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Import-Rivers-From-XML\bin\Debug\Import-Rivers-From-XML.exe.config
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Import-Rivers-From-XML\bin\Debug\Import-Rivers-From-XML.exe
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Import-Rivers-From-XML\bin\Debug\Import-Rivers-From-XML.pdb
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Import-Rivers-From-XML\bin\Debug\EF-Mappings.exe
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Import-Rivers-From-XML\bin\Debug\EntityFramework.dll
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Import-Rivers-From-XML\bin\Debug\EntityFramework.SqlServer.dll
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Import-Rivers-From-XML\bin\Debug\EF-Mappings.pdb
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Import-Rivers-From-XML\bin\Debug\EntityFramework.xml
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Import-Rivers-From-XML\bin\Debug\EntityFramework.SqlServer.xml
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Import-Rivers-From-XML\obj\Debug\4. Import-Rivers-From-XML.csprojResolveAssemblyReference.cache
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Import-Rivers-From-XML\obj\Debug\Import-Rivers-From-XML.exe
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Import-Rivers-From-XML\obj\Debug\Import-Rivers-From-XML.pdb

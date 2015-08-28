@@ -1,0 +1,5 @@
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\ExecClass\BookShop\BookShoop.Models\bin\Debug\BookShoop.Models.dll
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\ExecClass\BookShop\BookShoop.Models\bin\Debug\BookShoop.Models.pdb
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\ExecClass\BookShop\BookShoop.Models\obj\Debug\BookShoop.Models.csprojResolveAssemblyReference.cache
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\ExecClass\BookShop\BookShoop.Models\obj\Debug\BookShoop.Models.dll
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\ExecClass\BookShop\BookShoop.Models\obj\Debug\BookShoop.Models.pdb

@@ -1,0 +1,10 @@
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Mountains-Code-First\bin\Debug\Mountains-Code-First.exe.config
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Mountains-Code-First\bin\Debug\Mountains-Code-First.exe
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Mountains-Code-First\bin\Debug\Mountains-Code-First.pdb
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Mountains-Code-First\bin\Debug\EntityFramework.dll
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Mountains-Code-First\bin\Debug\EntityFramework.SqlServer.dll
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Mountains-Code-First\bin\Debug\EntityFramework.xml
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Mountains-Code-First\bin\Debug\EntityFramework.SqlServer.xml
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Mountains-Code-First\obj\Debug\5. Mountains-Code-First.csprojResolveAssemblyReference.cache
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Mountains-Code-First\obj\Debug\Mountains-Code-First.exe
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\Mountains-Code-First\obj\Debug\Mountains-Code-First.pdb

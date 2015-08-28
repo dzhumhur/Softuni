@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rivers>
+  <river>
+    <name>Nile</name>
+    <length>6650</length>
+    <outflow>Mediterranean</outflow>
+    <drainage-area>3254555</drainage-area>
+    <average-discharge>5100</average-discharge>
+    <countries>
+      <contry>Burundi</contry>
+      <contry>Democratic Republic of the Congo</contry>
+      <contry>Egypt</contry>
+      <contry>Eritrea</contry>
+      <contry>Ethiopia</contry>
+      <contry>Kenya</contry>
+      <contry>Rwanda</contry>
+      <contry>Sudan</contry>
+      <contry>South Sudan</contry>
+      <contry>Tanzania</contry>
+      <contry>Uganda</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Amazon</name>
+    <length>6400</length>
+    <outflow>Atlantic Ocean</outflow>
+    <drainage-area>7050000</drainage-area>
+    <average-discharge>219000</average-discharge>
+    <countries>
+      <contry>Bolivia</contry>
+      <contry>Brazil</contry>
+      <contry>Colombia</contry>
+      <contry>Ecuador</contry>
+      <contry>Guyana</contry>
+      <contry>Peru</contry>
+      <contry>Venezuela</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Yangtze</name>
+    <length>6300</length>
+    <outflow>East China Sea</outflow>
+    <drainage-area>1800000</drainage-area>
+    <average-discharge>31900</average-discharge>
+    <countries>
+      <contry>China</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Mississippi</name>
+    <length>6275</length>
+    <outflow>Gulf of Mexico</outflow>
+    <drainage-area>2980000</drainage-area>
+    <average-discharge>16200</average-discharge>
+    <countries>
+      <contry>Canada</contry>
+      <contry>United States</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Yenisei</name>
+    <length>5539</length>
+    <outflow>Kara Sea</outflow>
+    <drainage-area>2580000</drainage-area>
+    <average-discharge>19600</average-discharge>
+    <countries>
+      <contry>Mongolia</contry>
+      <contry>Russia</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Yellow River</name>
+    <length>5464</length>
+    <outflow>Bohai Sea</outflow>
+    <drainage-area>745000</drainage-area>
+    <average-discharge>2110</average-discharge>
+    <countries>
+      <contry>China</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Ob</name>
+    <length>5410</length>
+    <outflow>Gulf of Ob</outflow>
+    <drainage-area>2990000</drainage-area>
+    <average-discharge>12800</average-discharge>
+    <countries>
+      <contry>China</contry>
+      <contry>Kazakhstan</contry>
+      <contry>Mongolia</contry>
+      <contry>Russia</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Paraná</name>
+    <length>4880</length>
+    <outflow>Río de la Plata</outflow>
+    <drainage-area>2582672</drainage-area>
+    <average-discharge>18000</average-discharge>
+    <countries>
+      <contry>Argentina</contry>
+      <contry>Bolivia</contry>
+      <contry>Brazil</contry>
+      <contry>Paraguay</contry>
+      <contry>Uruguay</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Congo</name>
+    <length>4700</length>
+    <outflow>Atlantic Ocean</outflow>
+    <drainage-area>3680000</drainage-area>
+    <average-discharge>41800</average-discharge>
+    <countries>
+      <contry>Angola</contry>
+      <contry>Burundi</contry>
+      <contry>Democratic Republic of the Congo</contry>
+      <contry>Central African Republic</contry>
+      <contry>Republic of the Congo</contry>
+      <contry>Cameroon</contry>
+      <contry>Rwanda</contry>
+      <contry>Tanzania</contry>
+      <contry>Zambia</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Amur</name>
+    <length>4444</length>
+    <outflow>Sea of Okhotsk</outflow>
+    <drainage-area>1855000</drainage-area>
+    <average-discharge>11400</average-discharge>
+    <countries>
+      <contry>China</contry>
+      <contry>Mongolia</contry>
+      <contry>Russia</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Lena</name>
+    <length>4400</length>
+    <outflow>Laptev Sea</outflow>
+    <drainage-area>2490000</drainage-area>
+    <average-discharge>17100</average-discharge>
+    <countries>
+      <contry>Russia</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Mekong</name>
+    <length>4350</length>
+    <outflow>South China Sea</outflow>
+    <drainage-area>810000</drainage-area>
+    <average-discharge>16000</average-discharge>
+    <countries>
+      <contry>China</contry>
+      <contry>Cambodia</contry>
+      <contry>Laos</contry>
+      <contry>Myanmar</contry>
+      <contry>Thailand</contry>
+      <contry>Vietnam</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Mackenzie</name>
+    <length>4241</length>
+    <outflow>Beaufort Sea</outflow>
+    <drainage-area>1790000</drainage-area>
+    <average-discharge>10300</average-discharge>
+    <countries>
+      <contry>Canada</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Niger</name>
+    <length>4200</length>
+    <outflow>Gulf of Guinea</outflow>
+    <drainage-area>2090000</drainage-area>
+    <average-discharge>9570</average-discharge>
+    <countries>
+      <contry>Burkina Faso</contry>
+      <contry>Benin</contry>
+      <contry>Cameroon</contry>
+      <contry>Algeria</contry>
+      <contry>Guinea</contry>
+      <contry>Mali</contry>
+      <contry>Niger</contry>
+      <contry>Nigeria</contry>
+      <contry>Chad</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Murray</name>
+    <length>3672</length>
+    <outflow>Southern Ocean</outflow>
+    <drainage-area>1061000</drainage-area>
+    <average-discharge>7670</average-discharge>
+    <countries>
+      <contry>Australia</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Tocantins</name>
+    <length>3650</length>
+    <outflow>Atlantic Ocean, Amazon</outflow>
+    <drainage-area>950000</drainage-area>
+    <average-discharge>13598</average-discharge>
+    <countries>
+      <contry>Brazil</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Volga</name>
+    <length>3645</length>
+    <outflow>Caspian Sea</outflow>
+    <drainage-area>1380000</drainage-area>
+    <average-discharge>8080</average-discharge>
+    <countries>
+      <contry>Russia</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Shatt al-Arab</name>
+    <length>3596</length>
+    <outflow>Persian Gulf</outflow>
+    <drainage-area>884000</drainage-area>
+    <average-discharge>8560</average-discharge>
+    <countries>
+      <contry>Iraq</contry>
+      <contry>Syria</contry>
+      <contry>Turkey</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Madeira</name>
+    <length>3380</length>
+    <outflow>Amazon</outflow>
+    <drainage-area>1485200</drainage-area>
+    <average-discharge>31200</average-discharge>
+    <countries>
+      <contry>Bolivia</contry>
+      <contry>Brazil</contry>
+      <contry>Peru</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Purús</name>
+    <length>3211</length>
+    <outflow>Amazon</outflow>
+    <drainage-area>63166</drainage-area>
+    <average-discharge>8400</average-discharge>
+    <countries>
+      <contry>Brazil</contry>
+      <contry>Peru</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Yukon</name>
+    <length>3185</length>
+    <outflow>Bering Sea</outflow>
+    <drainage-area>850000</drainage-area>
+    <average-discharge>6210</average-discharge>
+    <countries>
+      <contry>Canada</contry>
+      <contry>United States</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Indus</name>
+    <length>3180</length>
+    <outflow>Arabian Sea</outflow>
+    <drainage-area>960000</drainage-area>
+    <average-discharge>7160</average-discharge>
+    <countries>
+      <contry>China</contry>
+      <contry>India</contry>
+      <contry>Pakistan</contry>
+    </countries>
+  </river>
+  <river>
+    <name>São Francisco</name>
+    <length>3180</length>
+    <outflow>Atlantic Ocean</outflow>
+    <drainage-area>610000</drainage-area>
+    <average-discharge>3300</average-discharge>
+    <countries>
+      <contry>Brazil</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Syr Darya</name>
+    <length>3078</length>
+    <outflow>Aral Sea</outflow>
+    <drainage-area>219000</drainage-area>
+    <average-discharge>7030</average-discharge>
+    <countries>
+      <contry>Kyrgyzstan</contry>
+      <contry>Kazakhstan</contry>
+      <contry>Tajikistan</contry>
+      <contry>Uzbekistan</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Salween</name>
+    <length>3060</length>
+    <outflow>Andaman Sea</outflow>
+    <drainage-area>324000</drainage-area>
+    <average-discharge>3153</average-discharge>
+    <countries>
+      <contry>China</contry>
+      <contry>Myanmar</contry>
+      <contry>Thailand</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Saint Lawrence</name>
+    <length>3058</length>
+    <outflow>Gulf of Saint Lawrence</outflow>
+    <drainage-area>1030000</drainage-area>
+    <average-discharge>10100</average-discharge>
+    <countries>
+      <contry>Canada</contry>
+      <contry>United States</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Rio Grande</name>
+    <length>3057</length>
+    <outflow>Gulf of Mexico</outflow>
+    <drainage-area>570000</drainage-area>
+    <average-discharge>820</average-discharge>
+    <countries>
+      <contry>Mexico</contry>
+      <contry>United States</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Lower Tunguska</name>
+    <length>2989</length>
+    <outflow>Yenisei</outflow>
+    <drainage-area>473000</drainage-area>
+    <average-discharge>3600</average-discharge>
+    <countries>
+      <contry>Russia</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Brahmaputra</name>
+    <length>2948</length>
+    <outflow>Ganges</outflow>
+    <drainage-area>1730000</drainage-area>
+    <average-discharge>19200</average-discharge>
+    <countries>
+      <contry>Bangladesh</contry>
+      <contry>Bhutan</contry>
+      <contry>China</contry>
+      <contry>India</contry>
+      <contry>Nepal</contry>
+    </countries>
+  </river>
+  <river>
+    <name>Danube</name>
+    <length>2888</length>
+    <outflow>Black Sea</outflow>
+    <drainage-area>817000</drainage-area>
+    <average-discharge>7130</average-discharge>
+    <countries>
+      <contry>Austria</contry>
+      <contry>Bulgaria</contry>
+      <contry>Germany</contry>
+      <contry>Croatia</contry>
+      <contry>Hungary</contry>
+      <contry>Romania</contry>
+      <contry>Serbia</contry>
+      <contry>Slovakia</contry>
+    </countries>
+  </river>
+</rivers>

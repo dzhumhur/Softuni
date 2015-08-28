@@ -1,0 +1,12 @@
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\MoviesData\bin\Debug\MoviesData.dll.config
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\MoviesData\bin\Debug\MoviesData.dll
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\MoviesData\bin\Debug\MoviesData.pdb
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\MoviesData\bin\Debug\EntityFramework.dll
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\MoviesData\bin\Debug\EntityFramework.SqlServer.dll
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\MoviesData\bin\Debug\MoviesModels.dll
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\MoviesData\bin\Debug\MoviesModels.pdb
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\MoviesData\bin\Debug\EntityFramework.xml
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\MoviesData\bin\Debug\EntityFramework.SqlServer.xml
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\MoviesData\obj\Debug\MoviesData.csprojResolveAssemblyReference.cache
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\MoviesData\obj\Debug\MoviesData.dll
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\MoviesData\obj\Debug\MoviesData.pdb

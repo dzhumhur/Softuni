@@ -1,0 +1,12 @@
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\03. ExportFinishedGamesAsXML\bin\Debug\_03.ExportFinishedGamesAsXML.exe.config
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\03. ExportFinishedGamesAsXML\bin\Debug\_03.ExportFinishedGamesAsXML.exe
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\03. ExportFinishedGamesAsXML\bin\Debug\_03.ExportFinishedGamesAsXML.pdb
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\03. ExportFinishedGamesAsXML\bin\Debug\EntityFramework.dll
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\03. ExportFinishedGamesAsXML\bin\Debug\EntityFramework.SqlServer.dll
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\03. ExportFinishedGamesAsXML\bin\Debug\_01.EntityFrameworkMapping.exe
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\03. ExportFinishedGamesAsXML\bin\Debug\_01.EntityFrameworkMapping.pdb
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\03. ExportFinishedGamesAsXML\bin\Debug\EntityFramework.xml
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\03. ExportFinishedGamesAsXML\bin\Debug\EntityFramework.SqlServer.xml
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\03. ExportFinishedGamesAsXML\obj\Debug\03. ExportFinishedGamesAsXML.csprojResolveAssemblyReference.cache
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\03. ExportFinishedGamesAsXML\obj\Debug\_03.ExportFinishedGamesAsXML.exe
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\03. ExportFinishedGamesAsXML\obj\Debug\_03.ExportFinishedGamesAsXML.pdb

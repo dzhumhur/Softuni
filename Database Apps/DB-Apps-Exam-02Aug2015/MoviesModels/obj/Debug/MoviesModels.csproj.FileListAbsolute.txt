@@ -1,0 +1,4 @@
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\MoviesModels\bin\Debug\MoviesModels.dll
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\MoviesModels\bin\Debug\MoviesModels.pdb
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\MoviesModels\obj\Debug\MoviesModels.dll
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\DB-Apps-Exam-02Aug2015\MoviesModels\obj\Debug\MoviesModels.pdb

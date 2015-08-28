@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b7aaba12fbef47e287da7d118e35f191" Name="Diagram1" ZoomLevel="83">
+        <EntityTypeShape EntityType="DiabloModel.Character" Width="1.5" PointX="5.625" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiabloModel.Game" Width="1.5" PointX="13" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiabloModel.GameType" Width="1.5" PointX="8.125" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiabloModel.Item" Width="1.5" PointX="8" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiabloModel.ItemType" Width="1.5" PointX="5.5" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiabloModel.Statistic" Width="1.5" PointX="3" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiabloModel.User" Width="1.5" PointX="12.875" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiabloModel.UsersGame" Width="1.5" PointX="10.625" PointY="2.75" IsExpanded="true" />
+        <AssociationConnector Association="DiabloModel.FK_Characters_Statistics" ManuallyRouted="false" />
+        <AssociationConnector Association="DiabloModel.FK_UsersGames_Characters" ManuallyRouted="false" />
+        <AssociationConnector Association="DiabloModel.FK_Games_GameTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="DiabloModel.FK_UsersGames_Games" ManuallyRouted="false" />
+        <AssociationConnector Association="DiabloModel.FK_GameTypes_Statistics" ManuallyRouted="false" />
+        <AssociationConnector Association="DiabloModel.FK_Items_ItemTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="DiabloModel.FK_Items_Statistics" ManuallyRouted="false" />
+        <AssociationConnector Association="DiabloModel.FK_UsersGames_Users1" ManuallyRouted="false" />
+        <AssociationConnector Association="DiabloModel.GameTypeForbiddenItems" ManuallyRouted="false" />
+        <AssociationConnector Association="DiabloModel.UserGameItems" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

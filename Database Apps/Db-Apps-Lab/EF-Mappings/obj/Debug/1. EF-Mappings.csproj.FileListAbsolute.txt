@@ -1,0 +1,9 @@
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\EF-Mappings\bin\Debug\EF-Mappings.exe.config
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\EF-Mappings\bin\Debug\EF-Mappings.exe
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\EF-Mappings\bin\Debug\EF-Mappings.pdb
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\EF-Mappings\bin\Debug\EntityFramework.dll
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\EF-Mappings\bin\Debug\EntityFramework.SqlServer.dll
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\EF-Mappings\bin\Debug\EntityFramework.xml
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\EF-Mappings\bin\Debug\EntityFramework.SqlServer.xml
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\EF-Mappings\obj\Debug\EF-Mappings.exe
+E:\DISK D\Softuni-Projects\Modul Back-End\DB Apps July 2015\Exams\Db-Apps-Lab\EF-Mappings\obj\Debug\EF-Mappings.pdb
