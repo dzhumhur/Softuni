@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WcfServiceDistanceCalculator.ServiceDistanceCalculator" CodeBehind="Service1.svc.cs" %>

@@ -1,0 +1,15 @@
+﻿
+@using (Html.BeginForm(FormMethod.Post))
+{
+    <div>
+        <input type="type" name="first" />
+        +    
+        <input type="type" name="second" />            
+    </div>
+
+    <div>
+        <input type="submit" name="name" value="=" />
+    </div>
+    
+    <div>@ViewBag.Result</div>
+}

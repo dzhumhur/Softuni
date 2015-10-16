@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewBag.Title = "FollowingUsers";
+}
+<h2>FollowingUsers</h2>
+@foreach (var currUser in ViewBag.FollowingUsers)
+{
+    <p>@currUser.Email</p>
+}
+
+
