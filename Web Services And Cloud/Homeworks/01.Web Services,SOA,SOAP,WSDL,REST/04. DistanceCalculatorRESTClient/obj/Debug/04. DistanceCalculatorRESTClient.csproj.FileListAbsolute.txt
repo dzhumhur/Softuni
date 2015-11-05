@@ -1,8 +1,0 @@
-E:\DISK D\Softuni-Projects\Modul Back-End\Web Services & Cloud\Homeworks\01.Web Services,SOA,SOAP,WSDL,REST\04. DistanceCalculatorRESTClient\bin\Debug\_04.DistanceCalculatorRESTClient.exe.config
-E:\DISK D\Softuni-Projects\Modul Back-End\Web Services & Cloud\Homeworks\01.Web Services,SOA,SOAP,WSDL,REST\04. DistanceCalculatorRESTClient\bin\Debug\_04.DistanceCalculatorRESTClient.exe
-E:\DISK D\Softuni-Projects\Modul Back-End\Web Services & Cloud\Homeworks\01.Web Services,SOA,SOAP,WSDL,REST\04. DistanceCalculatorRESTClient\bin\Debug\_04.DistanceCalculatorRESTClient.pdb
-E:\DISK D\Softuni-Projects\Modul Back-End\Web Services & Cloud\Homeworks\01.Web Services,SOA,SOAP,WSDL,REST\04. DistanceCalculatorRESTClient\bin\Debug\RestSharp.dll
-E:\DISK D\Softuni-Projects\Modul Back-End\Web Services & Cloud\Homeworks\01.Web Services,SOA,SOAP,WSDL,REST\04. DistanceCalculatorRESTClient\bin\Debug\RestSharp.xml
-E:\DISK D\Softuni-Projects\Modul Back-End\Web Services & Cloud\Homeworks\01.Web Services,SOA,SOAP,WSDL,REST\04. DistanceCalculatorRESTClient\obj\Debug\04. DistanceCalculatorRESTClient.csprojResolveAssemblyReference.cache
-E:\DISK D\Softuni-Projects\Modul Back-End\Web Services & Cloud\Homeworks\01.Web Services,SOA,SOAP,WSDL,REST\04. DistanceCalculatorRESTClient\obj\Debug\_04.DistanceCalculatorRESTClient.exe
-E:\DISK D\Softuni-Projects\Modul Back-End\Web Services & Cloud\Homeworks\01.Web Services,SOA,SOAP,WSDL,REST\04. DistanceCalculatorRESTClient\obj\Debug\_04.DistanceCalculatorRESTClient.pdb

@@ -1,5 +1,0 @@
-E:\DISK D\Softuni-Projects\Modul Back-End\Web Services And Cloud\Homeworks\02. ASP.NET Web API\BookShop.Models\bin\Debug\BookShop.Models.dll
-E:\DISK D\Softuni-Projects\Modul Back-End\Web Services And Cloud\Homeworks\02. ASP.NET Web API\BookShop.Models\bin\Debug\BookShop.Models.pdb
-E:\DISK D\Softuni-Projects\Modul Back-End\Web Services And Cloud\Homeworks\02. ASP.NET Web API\BookShop.Models\obj\Debug\BookShop.Models.csprojResolveAssemblyReference.cache
-E:\DISK D\Softuni-Projects\Modul Back-End\Web Services And Cloud\Homeworks\02. ASP.NET Web API\BookShop.Models\obj\Debug\BookShop.Models.dll
-E:\DISK D\Softuni-Projects\Modul Back-End\Web Services And Cloud\Homeworks\02. ASP.NET Web API\BookShop.Models\obj\Debug\BookShop.Models.pdb
