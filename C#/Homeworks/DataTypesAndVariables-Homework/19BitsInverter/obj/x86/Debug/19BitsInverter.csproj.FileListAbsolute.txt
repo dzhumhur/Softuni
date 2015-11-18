@@ -1,5 +1,0 @@
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\19BitsInverter\bin\Debug\19BitsInverter.exe
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\19BitsInverter\bin\Debug\19BitsInverter.pdb
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\19BitsInverter\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\19BitsInverter\obj\x86\Debug\19BitsInverter.exe
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\19BitsInverter\obj\x86\Debug\19BitsInverter.pdb

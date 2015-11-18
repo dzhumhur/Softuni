@@ -1,5 +1,0 @@
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\17CalculateGCD\bin\Debug\17CalculateGCD.exe
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\17CalculateGCD\bin\Debug\17CalculateGCD.pdb
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\17CalculateGCD\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\17CalculateGCD\obj\x86\Debug\17CalculateGCD.exe
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\17CalculateGCD\obj\x86\Debug\17CalculateGCD.pdb

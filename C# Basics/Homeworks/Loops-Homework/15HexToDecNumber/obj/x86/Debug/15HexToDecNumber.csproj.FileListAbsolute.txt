@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basic\06.Loops\Loops-Homework\15HexToDecNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\C# Basic\06.Loops\Loops-Homework\15HexToDecNumber\bin\Debug\15HexToDecNumber.exe
+D:\SoftUni\C# Basic\06.Loops\Loops-Homework\15HexToDecNumber\bin\Debug\15HexToDecNumber.pdb
+D:\SoftUni\C# Basic\06.Loops\Loops-Homework\15HexToDecNumber\obj\x86\Debug\15HexToDecNumber.exe
+D:\SoftUni\C# Basic\06.Loops\Loops-Homework\15HexToDecNumber\obj\x86\Debug\15HexToDecNumber.pdb

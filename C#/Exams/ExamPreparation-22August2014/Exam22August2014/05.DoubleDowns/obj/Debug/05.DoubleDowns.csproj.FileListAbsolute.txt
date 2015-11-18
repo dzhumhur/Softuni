@@ -1,6 +1,0 @@
-C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\05.DoubleDowns\bin\Debug\05.DoubleDowns.exe.config
-C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\05.DoubleDowns\bin\Debug\05.DoubleDowns.exe
-C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\05.DoubleDowns\bin\Debug\05.DoubleDowns.pdb
-C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\05.DoubleDowns\obj\Debug\05.DoubleDowns.csprojResolveAssemblyReference.cache
-C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\05.DoubleDowns\obj\Debug\05.DoubleDowns.exe
-C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\05.DoubleDowns\obj\Debug\05.DoubleDowns.pdb

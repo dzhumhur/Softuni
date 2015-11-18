@@ -1,5 +1,0 @@
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\06StringsAndObjects\bin\Debug\06StringsAndObjects.exe
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\06StringsAndObjects\bin\Debug\06StringsAndObjects.pdb
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\06StringsAndObjects\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\06StringsAndObjects\obj\x86\Debug\06StringsAndObjects.exe
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\06StringsAndObjects\obj\x86\Debug\06StringsAndObjects.pdb

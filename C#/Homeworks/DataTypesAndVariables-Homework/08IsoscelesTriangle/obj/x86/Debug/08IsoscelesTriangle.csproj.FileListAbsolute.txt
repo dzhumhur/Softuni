@@ -1,5 +1,0 @@
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.pdb
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\08IsoscelesTriangle\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\08IsoscelesTriangle\obj\x86\Debug\08IsoscelesTriangle.exe
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\08IsoscelesTriangle\obj\x86\Debug\08IsoscelesTriangle.pdb

@@ -1,5 +1,0 @@
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem04.HelloCSharp\bin\Debug\Problem04.HelloCSharp.exe
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem04.HelloCSharp\bin\Debug\Problem04.HelloCSharp.pdb
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem04.HelloCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem04.HelloCSharp\obj\x86\Debug\Problem04.HelloCSharp.exe
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem04.HelloCSharp\obj\x86\Debug\Problem04.HelloCSharp.pdb

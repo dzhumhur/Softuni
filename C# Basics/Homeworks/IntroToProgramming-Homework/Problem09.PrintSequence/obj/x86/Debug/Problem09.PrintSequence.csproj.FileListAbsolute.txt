@@ -1,0 +1,5 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem09.PrintSequence\bin\Debug\Problem09.PrintSequence.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem09.PrintSequence\bin\Debug\Problem09.PrintSequence.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem09.PrintSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem09.PrintSequence\obj\x86\Debug\Problem09.PrintSequence.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem09.PrintSequence\obj\x86\Debug\Problem09.PrintSequence.pdb

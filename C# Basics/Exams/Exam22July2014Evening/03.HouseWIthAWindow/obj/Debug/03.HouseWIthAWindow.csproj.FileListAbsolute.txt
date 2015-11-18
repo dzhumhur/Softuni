@@ -1,0 +1,5 @@
+C:\Users\Djumi\Desktop\Exam22July2014Evening\Exam22July2014Evening\03.HouseWIthAWindow\bin\Debug\03.HouseWIthAWindow.exe.config
+C:\Users\Djumi\Desktop\Exam22July2014Evening\Exam22July2014Evening\03.HouseWIthAWindow\bin\Debug\03.HouseWIthAWindow.exe
+C:\Users\Djumi\Desktop\Exam22July2014Evening\Exam22July2014Evening\03.HouseWIthAWindow\bin\Debug\03.HouseWIthAWindow.pdb
+C:\Users\Djumi\Desktop\Exam22July2014Evening\Exam22July2014Evening\03.HouseWIthAWindow\obj\Debug\03.HouseWIthAWindow.exe
+C:\Users\Djumi\Desktop\Exam22July2014Evening\Exam22July2014Evening\03.HouseWIthAWindow\obj\Debug\03.HouseWIthAWindow.pdb

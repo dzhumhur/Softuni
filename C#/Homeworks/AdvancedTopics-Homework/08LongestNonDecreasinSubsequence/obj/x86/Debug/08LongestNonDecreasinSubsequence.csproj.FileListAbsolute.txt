@@ -1,5 +1,0 @@
-D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\08LongestNonDecreasinSubsequence\bin\Debug\08LongestNonDecreasinSubsequence.exe
-D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\08LongestNonDecreasinSubsequence\bin\Debug\08LongestNonDecreasinSubsequence.pdb
-D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\08LongestNonDecreasinSubsequence\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\08LongestNonDecreasinSubsequence\obj\x86\Debug\08LongestNonDecreasinSubsequence.exe
-D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\08LongestNonDecreasinSubsequence\obj\x86\Debug\08LongestNonDecreasinSubsequence.pdb

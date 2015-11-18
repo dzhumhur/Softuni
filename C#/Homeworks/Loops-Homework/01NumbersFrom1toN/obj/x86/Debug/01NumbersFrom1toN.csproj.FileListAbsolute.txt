@@ -1,9 +1,0 @@
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\01NumbersFrom1toN\bin\Debug\01NumbersFrom1toN.exe
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\01NumbersFrom1toN\bin\Debug\01NumbersFrom1toN.pdb
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\01NumbersFrom1toN\obj\x86\Debug\01NumbersFrom1toN.exe
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\01NumbersFrom1toN\obj\x86\Debug\01NumbersFrom1toN.pdb
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\01NumbersFrom1toN\obj\x86\Debug\01NumbersFrom1toN.exe
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\01NumbersFrom1toN\obj\x86\Debug\01NumbersFrom1toN.pdb
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\01NumbersFrom1toN\bin\Debug\01NumbersFrom1toN.exe
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\01NumbersFrom1toN\bin\Debug\01NumbersFrom1toN.pdb
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\01NumbersFrom1toN\obj\x86\Debug\ResolveAssemblyReference.cache

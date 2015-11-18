@@ -1,5 +1,0 @@
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem14.CurrentDateTime\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem14.CurrentDateTime\bin\Debug\Problem14.CurrentDateTime.exe
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem14.CurrentDateTime\bin\Debug\Problem14.CurrentDateTime.pdb
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem14.CurrentDateTime\obj\x86\Debug\Problem14.CurrentDateTime.exe
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem14.CurrentDateTime\obj\x86\Debug\Problem14.CurrentDateTime.pdb

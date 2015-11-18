@@ -1,6 +1,0 @@
-C:\Users\Djumi\Desktop\Exam28April2014\02.SequenceOfkNumbers\bin\Debug\02.SequenceOfkNumbers.exe.config
-C:\Users\Djumi\Desktop\Exam28April2014\02.SequenceOfkNumbers\bin\Debug\02.SequenceOfkNumbers.exe
-C:\Users\Djumi\Desktop\Exam28April2014\02.SequenceOfkNumbers\bin\Debug\02.SequenceOfkNumbers.pdb
-C:\Users\Djumi\Desktop\Exam28April2014\02.SequenceOfkNumbers\obj\Debug\02.SequenceOfkNumbers.csprojResolveAssemblyReference.cache
-C:\Users\Djumi\Desktop\Exam28April2014\02.SequenceOfkNumbers\obj\Debug\02.SequenceOfkNumbers.exe
-C:\Users\Djumi\Desktop\Exam28April2014\02.SequenceOfkNumbers\obj\Debug\02.SequenceOfkNumbers.pdb

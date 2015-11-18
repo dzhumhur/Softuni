@@ -1,0 +1,12 @@
+C:\Users\Djumi\Desktop\Exam08November2014\08November2014\Problem1\bin\Debug\Problem1.exe.config
+C:\Users\Djumi\Desktop\Exam08November2014\08November2014\Problem1\bin\Debug\Problem1.exe
+C:\Users\Djumi\Desktop\Exam08November2014\08November2014\Problem1\bin\Debug\Problem1.pdb
+C:\Users\Djumi\Desktop\Exam08November2014\08November2014\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+C:\Users\Djumi\Desktop\Exam08November2014\08November2014\Problem1\obj\Debug\Problem1.exe
+C:\Users\Djumi\Desktop\Exam08November2014\08November2014\Problem1\obj\Debug\Problem1.pdb
+E:\DISK D\Documents\Softuni-Projects\Level # 0 - Preparation\Exam08November2014\08November2014\Problem1\bin\Debug\Problem1.exe.config
+E:\DISK D\Documents\Softuni-Projects\Level # 0 - Preparation\Exam08November2014\08November2014\Problem1\obj\Debug\Problem1.exe
+E:\DISK D\Documents\Softuni-Projects\Level # 0 - Preparation\Exam08November2014\08November2014\Problem1\obj\Debug\Problem1.pdb
+E:\DISK D\Documents\Softuni-Projects\Level # 0 - Preparation\Exam08November2014\08November2014\Problem1\bin\Debug\Problem1.exe
+E:\DISK D\Documents\Softuni-Projects\Level # 0 - Preparation\Exam08November2014\08November2014\Problem1\bin\Debug\Problem1.pdb
+E:\DISK D\Documents\Softuni-Projects\Level # 0 - Preparation\Exam08November2014\08November2014\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Djumi\Desktop\Exam7November2014\Exam7November2014\04.WeirdCombinations\bin\Debug\04.WeirdCombinations.exe.config
+C:\Users\Djumi\Desktop\Exam7November2014\Exam7November2014\04.WeirdCombinations\obj\Debug\04.WeirdCombinations.csprojResolveAssemblyReference.cache
+C:\Users\Djumi\Desktop\Exam7November2014\Exam7November2014\04.WeirdCombinations\bin\Debug\04.WeirdCombinations.exe
+C:\Users\Djumi\Desktop\Exam7November2014\Exam7November2014\04.WeirdCombinations\bin\Debug\04.WeirdCombinations.pdb
+C:\Users\Djumi\Desktop\Exam7November2014\Exam7November2014\04.WeirdCombinations\obj\Debug\04.WeirdCombinations.exe
+C:\Users\Djumi\Desktop\Exam7November2014\Exam7November2014\04.WeirdCombinations\obj\Debug\04.WeirdCombinations.pdb

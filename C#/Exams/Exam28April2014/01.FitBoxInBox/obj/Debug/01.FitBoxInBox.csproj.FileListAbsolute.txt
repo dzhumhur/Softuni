@@ -1,6 +1,0 @@
-C:\Users\Djumi\Desktop\Exam28April2014\01.FitBoxInBox\bin\Debug\01.FitBoxInBox.exe.config
-C:\Users\Djumi\Desktop\Exam28April2014\01.FitBoxInBox\bin\Debug\01.FitBoxInBox.exe
-C:\Users\Djumi\Desktop\Exam28April2014\01.FitBoxInBox\bin\Debug\01.FitBoxInBox.pdb
-C:\Users\Djumi\Desktop\Exam28April2014\01.FitBoxInBox\obj\Debug\01.FitBoxInBox.csprojResolveAssemblyReference.cache
-C:\Users\Djumi\Desktop\Exam28April2014\01.FitBoxInBox\obj\Debug\01.FitBoxInBox.exe
-C:\Users\Djumi\Desktop\Exam28April2014\01.FitBoxInBox\obj\Debug\01.FitBoxInBox.pdb

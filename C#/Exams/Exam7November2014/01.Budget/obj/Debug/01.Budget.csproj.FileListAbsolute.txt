@@ -1,9 +1,0 @@
-C:\Users\Djumi\Desktop\Exam7November2014\Exam7November2014\01.Budget\bin\Debug\01.Budget.exe.config
-C:\Users\Djumi\Desktop\Exam7November2014\Exam7November2014\01.Budget\bin\Debug\01.Budget.exe
-C:\Users\Djumi\Desktop\Exam7November2014\Exam7November2014\01.Budget\bin\Debug\01.Budget.pdb
-C:\Users\Djumi\Desktop\Exam7November2014\Exam7November2014\01.Budget\obj\Debug\01.Budget.csprojResolveAssemblyReference.cache
-C:\Users\Djumi\Desktop\Exam7November2014\Exam7November2014\01.Budget\obj\Debug\01.Budget.exe
-C:\Users\Djumi\Desktop\Exam7November2014\Exam7November2014\01.Budget\obj\Debug\01.Budget.pdb
-E:\DISK D\Documents\Softuni-Projects\Level # 0 - Preparation\Exam7November2014\Exam7November2014\01.Budget\bin\Debug\01.Budget.exe.config
-E:\DISK D\Documents\Softuni-Projects\Level # 0 - Preparation\Exam7November2014\Exam7November2014\01.Budget\obj\Debug\01.Budget.exe
-E:\DISK D\Documents\Softuni-Projects\Level # 0 - Preparation\Exam7November2014\Exam7November2014\01.Budget\obj\Debug\01.Budget.pdb

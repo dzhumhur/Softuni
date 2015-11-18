@@ -1,5 +1,0 @@
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\03VariableInHexFormat\bin\Debug\03VariableInHexFormat.exe
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\03VariableInHexFormat\bin\Debug\03VariableInHexFormat.pdb
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\03VariableInHexFormat\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\03VariableInHexFormat\obj\x86\Debug\03VariableInHexFormat.exe
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\03VariableInHexFormat\obj\x86\Debug\03VariableInHexFormat.pdb

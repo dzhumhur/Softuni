@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\21MagicCarNumbers\bin\Debug\21MagicCarNumbers.exe
+D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\21MagicCarNumbers\bin\Debug\21MagicCarNumbers.pdb
+D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\21MagicCarNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\21MagicCarNumbers\obj\x86\Debug\21MagicCarNumbers.exe
+D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\21MagicCarNumbers\obj\x86\Debug\21MagicCarNumbers.pdb

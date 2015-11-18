@@ -1,5 +1,0 @@
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem16.PrintLongSequence\bin\Debug\Problem16.PrintLongSequence.exe
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem16.PrintLongSequence\bin\Debug\Problem16.PrintLongSequence.pdb
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem16.PrintLongSequence\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem16.PrintLongSequence\obj\x86\Debug\Problem16.PrintLongSequence.exe
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem16.PrintLongSequence\obj\x86\Debug\Problem16.PrintLongSequence.pdb

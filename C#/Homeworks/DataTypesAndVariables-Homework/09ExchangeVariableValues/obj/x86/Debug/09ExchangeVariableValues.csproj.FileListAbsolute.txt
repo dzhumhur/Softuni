@@ -1,5 +1,0 @@
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\09ExchangeVariableValues\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.pdb
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\09ExchangeVariableValues\obj\x86\Debug\09ExchangeVariableValues.exe
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\09ExchangeVariableValues\obj\x86\Debug\09ExchangeVariableValues.pdb

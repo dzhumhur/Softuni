@@ -1,5 +1,0 @@
-D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\11NumsInIntervalDivByGivenNum\bin\Debug\11NumsInIntervalDivByGivenNum.exe
-D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\11NumsInIntervalDivByGivenNum\bin\Debug\11NumsInIntervalDivByGivenNum.pdb
-D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\11NumsInIntervalDivByGivenNum\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\11NumsInIntervalDivByGivenNum\obj\x86\Debug\11NumsInIntervalDivByGivenNum.exe
-D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\11NumsInIntervalDivByGivenNum\obj\x86\Debug\11NumsInIntervalDivByGivenNum.pdb

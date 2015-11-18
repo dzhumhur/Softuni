@@ -1,5 +1,0 @@
-D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\03CheckForPlayCard\bin\Debug\03CheckForPlayCard.exe
-D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\03CheckForPlayCard\bin\Debug\03CheckForPlayCard.pdb
-D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\03CheckForPlayCard\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\03CheckForPlayCard\obj\x86\Debug\03CheckForPlayCard.exe
-D:\SoftUni\C# Basic\05.ConditionalStatements\ConditionalStatements-Homework\03CheckForPlayCard\obj\x86\Debug\03CheckForPlayCard.pdb

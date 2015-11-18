@@ -1,5 +1,0 @@
-D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\05ThirdDigitIs7\bin\Debug\05ThirdDigitIs7.exe
-D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\05ThirdDigitIs7\bin\Debug\05ThirdDigitIs7.pdb
-D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\05ThirdDigitIs7\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\05ThirdDigitIs7\obj\x86\Debug\05ThirdDigitIs7.exe
-D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\05ThirdDigitIs7\obj\x86\Debug\05ThirdDigitIs7.pdb

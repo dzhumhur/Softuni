@@ -1,5 +1,0 @@
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\18NineDigitMagicNumbers\bin\Debug\18NineDigitMagicNumbers.exe
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\18NineDigitMagicNumbers\bin\Debug\18NineDigitMagicNumbers.pdb
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\18NineDigitMagicNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\18NineDigitMagicNumbers\obj\x86\Debug\18NineDigitMagicNumbers.exe
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\18NineDigitMagicNumbers\obj\x86\Debug\18NineDigitMagicNumbers.pdb

@@ -1,6 +1,0 @@
-E:\DISK D\Documents\Softuni-Projects\Level # 0 - Preparation\Exam7November2014\Exam7November2014\LiveTest\bin\Debug\LiveTest.exe.config
-E:\DISK D\Documents\Softuni-Projects\Level # 0 - Preparation\Exam7November2014\Exam7November2014\LiveTest\bin\Debug\LiveTest.exe
-E:\DISK D\Documents\Softuni-Projects\Level # 0 - Preparation\Exam7November2014\Exam7November2014\LiveTest\bin\Debug\LiveTest.pdb
-E:\DISK D\Documents\Softuni-Projects\Level # 0 - Preparation\Exam7November2014\Exam7November2014\LiveTest\obj\Debug\LiveTest.csprojResolveAssemblyReference.cache
-E:\DISK D\Documents\Softuni-Projects\Level # 0 - Preparation\Exam7November2014\Exam7November2014\LiveTest\obj\Debug\LiveTest.exe
-E:\DISK D\Documents\Softuni-Projects\Level # 0 - Preparation\Exam7November2014\Exam7November2014\LiveTest\obj\Debug\LiveTest.pdb

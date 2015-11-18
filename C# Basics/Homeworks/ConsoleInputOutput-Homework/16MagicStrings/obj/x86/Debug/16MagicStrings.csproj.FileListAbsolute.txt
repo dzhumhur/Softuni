@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\16MagicStrings\bin\Debug\16MagicStrings.exe
+D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\16MagicStrings\bin\Debug\16MagicStrings.pdb
+D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\16MagicStrings\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\16MagicStrings\obj\x86\Debug\16MagicStrings.exe
+D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\16MagicStrings\obj\x86\Debug\16MagicStrings.pdb

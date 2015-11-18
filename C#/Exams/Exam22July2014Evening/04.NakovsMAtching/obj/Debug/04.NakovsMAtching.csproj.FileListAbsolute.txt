@@ -1,6 +1,0 @@
-C:\Users\Djumi\Desktop\Exam22July2014Evening\Exam22July2014Evening\04.NakovsMAtching\bin\Debug\04.NakovsMAtching.exe.config
-C:\Users\Djumi\Desktop\Exam22July2014Evening\Exam22July2014Evening\04.NakovsMAtching\bin\Debug\04.NakovsMAtching.exe
-C:\Users\Djumi\Desktop\Exam22July2014Evening\Exam22July2014Evening\04.NakovsMAtching\bin\Debug\04.NakovsMAtching.pdb
-C:\Users\Djumi\Desktop\Exam22July2014Evening\Exam22July2014Evening\04.NakovsMAtching\obj\Debug\04.NakovsMAtching.csprojResolveAssemblyReference.cache
-C:\Users\Djumi\Desktop\Exam22July2014Evening\Exam22July2014Evening\04.NakovsMAtching\obj\Debug\04.NakovsMAtching.exe
-C:\Users\Djumi\Desktop\Exam22July2014Evening\Exam22July2014Evening\04.NakovsMAtching\obj\Debug\04.NakovsMAtching.pdb

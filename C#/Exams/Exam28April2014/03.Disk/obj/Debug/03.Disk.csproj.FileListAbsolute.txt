@@ -1,5 +1,0 @@
-C:\Users\Djumi\Desktop\Exam28April2014\03.Disk\bin\Debug\03.Disk.exe.config
-C:\Users\Djumi\Desktop\Exam28April2014\03.Disk\bin\Debug\03.Disk.exe
-C:\Users\Djumi\Desktop\Exam28April2014\03.Disk\bin\Debug\03.Disk.pdb
-C:\Users\Djumi\Desktop\Exam28April2014\03.Disk\obj\Debug\03.Disk.exe
-C:\Users\Djumi\Desktop\Exam28April2014\03.Disk\obj\Debug\03.Disk.pdb

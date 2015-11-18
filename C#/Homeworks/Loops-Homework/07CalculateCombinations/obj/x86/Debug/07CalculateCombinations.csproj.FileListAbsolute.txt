@@ -1,6 +1,0 @@
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\07CalculateCombinations\bin\Debug\07CalculateCombinations.exe
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\07CalculateCombinations\bin\Debug\07CalculateCombinations.pdb
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\07CalculateCombinations\obj\x86\Debug\07CalculateCombinations.exe
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\07CalculateCombinations\obj\x86\Debug\07CalculateCombinations.pdb
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\07CalculateCombinations\obj\x86\Debug\07CalculateCombinations.exe
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\07CalculateCombinations\obj\x86\Debug\07CalculateCombinations.pdb

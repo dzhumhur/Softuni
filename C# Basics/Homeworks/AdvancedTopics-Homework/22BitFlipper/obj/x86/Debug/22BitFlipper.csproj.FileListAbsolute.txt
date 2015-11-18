@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\22BitFlipper\bin\Debug\22BitFlipper.exe
+D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\22BitFlipper\bin\Debug\22BitFlipper.pdb
+D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\22BitFlipper\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\22BitFlipper\obj\x86\Debug\22BitFlipper.exe
+D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\22BitFlipper\obj\x86\Debug\22BitFlipper.pdb

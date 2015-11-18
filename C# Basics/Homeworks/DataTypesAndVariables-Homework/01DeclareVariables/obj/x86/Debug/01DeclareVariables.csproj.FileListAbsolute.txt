@@ -1,0 +1,5 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\01DeclareVariables\bin\Debug\01DeclareVariables.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\01DeclareVariables\bin\Debug\01DeclareVariables.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\01DeclareVariables\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\01DeclareVariables\obj\x86\Debug\01DeclareVariables.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\01DeclareVariables\obj\x86\Debug\01DeclareVariables.pdb

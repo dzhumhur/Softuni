@@ -1,0 +1,6 @@
+C:\Users\Djumi\Desktop\Exam14AprilEvening\01.InsideTheBuilding\bin\Debug\01.InsideTheBuilding.exe.config
+C:\Users\Djumi\Desktop\Exam14AprilEvening\01.InsideTheBuilding\bin\Debug\01.InsideTheBuilding.exe
+C:\Users\Djumi\Desktop\Exam14AprilEvening\01.InsideTheBuilding\bin\Debug\01.InsideTheBuilding.pdb
+C:\Users\Djumi\Desktop\Exam14AprilEvening\01.InsideTheBuilding\obj\Debug\01.InsideTheBuilding.csprojResolveAssemblyReference.cache
+C:\Users\Djumi\Desktop\Exam14AprilEvening\01.InsideTheBuilding\obj\Debug\01.InsideTheBuilding.exe
+C:\Users\Djumi\Desktop\Exam14AprilEvening\01.InsideTheBuilding\obj\Debug\01.InsideTheBuilding.pdb

@@ -1,5 +1,0 @@
-D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.exe
-D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.pdb
-D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\02GravitationOnTheMoon\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\02GravitationOnTheMoon\obj\x86\Debug\02GravitationOnTheMoon.exe
-D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\02GravitationOnTheMoon\obj\x86\Debug\02GravitationOnTheMoon.pdb

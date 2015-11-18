@@ -1,6 +1,0 @@
-C:\Users\Djumi\Desktop\Exam14AprilEvening\02.StudentCables\bin\Debug\02.StudentCables.exe.config
-C:\Users\Djumi\Desktop\Exam14AprilEvening\02.StudentCables\bin\Debug\02.StudentCables.exe
-C:\Users\Djumi\Desktop\Exam14AprilEvening\02.StudentCables\bin\Debug\02.StudentCables.pdb
-C:\Users\Djumi\Desktop\Exam14AprilEvening\02.StudentCables\obj\Debug\02.StudentCables.csprojResolveAssemblyReference.cache
-C:\Users\Djumi\Desktop\Exam14AprilEvening\02.StudentCables\obj\Debug\02.StudentCables.exe
-C:\Users\Djumi\Desktop\Exam14AprilEvening\02.StudentCables\obj\Debug\02.StudentCables.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\15JoroTheFootballPlayer\bin\Debug\15JoroTheFootballPlayer.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\15JoroTheFootballPlayer\bin\Debug\15JoroTheFootballPlayer.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\15JoroTheFootballPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\15JoroTheFootballPlayer\obj\x86\Debug\15JoroTheFootballPlayer.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\DataTypesAndVariables-Homework\15JoroTheFootballPlayer\obj\x86\Debug\15JoroTheFootballPlayer.pdb

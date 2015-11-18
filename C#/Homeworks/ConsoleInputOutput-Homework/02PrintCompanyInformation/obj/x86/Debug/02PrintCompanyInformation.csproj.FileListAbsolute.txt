@@ -1,5 +1,0 @@
-D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.exe
-D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.pdb
-D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\02PrintCompanyInformation\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\02PrintCompanyInformation\obj\x86\Debug\02PrintCompanyInformation.exe
-D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\02PrintCompanyInformation\obj\x86\Debug\02PrintCompanyInformation.pdb

@@ -1,6 +1,0 @@
-C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\02.BookOrders\bin\Debug\02.BookOrders.exe.config
-C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\02.BookOrders\bin\Debug\02.BookOrders.exe
-C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\02.BookOrders\bin\Debug\02.BookOrders.pdb
-C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\02.BookOrders\obj\Debug\02.BookOrders.csprojResolveAssemblyReference.cache
-C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\02.BookOrders\obj\Debug\02.BookOrders.exe
-C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\02.BookOrders\obj\Debug\02.BookOrders.pdb

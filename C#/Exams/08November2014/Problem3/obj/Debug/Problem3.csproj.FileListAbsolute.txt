@@ -1,5 +1,0 @@
-C:\Users\Djumi\Desktop\Exam08November2014\08November2014\Problem3\bin\Debug\Problem3.exe.config
-C:\Users\Djumi\Desktop\Exam08November2014\08November2014\Problem3\bin\Debug\Problem3.exe
-C:\Users\Djumi\Desktop\Exam08November2014\08November2014\Problem3\bin\Debug\Problem3.pdb
-C:\Users\Djumi\Desktop\Exam08November2014\08November2014\Problem3\obj\Debug\Problem3.exe
-C:\Users\Djumi\Desktop\Exam08November2014\08November2014\Problem3\obj\Debug\Problem3.pdb

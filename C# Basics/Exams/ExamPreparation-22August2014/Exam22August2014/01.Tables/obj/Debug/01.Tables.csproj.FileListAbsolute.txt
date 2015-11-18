@@ -1,0 +1,6 @@
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\01.Tables\bin\Debug\01.Tables.exe.config
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\01.Tables\bin\Debug\01.Tables.exe
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\01.Tables\bin\Debug\01.Tables.pdb
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\01.Tables\obj\Debug\01.Tables.csprojResolveAssemblyReference.cache
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\01.Tables\obj\Debug\01.Tables.exe
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\01.Tables\obj\Debug\01.Tables.pdb

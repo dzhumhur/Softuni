@@ -1,5 +1,0 @@
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\02FloatOrDouble\bin\Debug\02FloatOrDouble.pdb
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\02FloatOrDouble\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\02FloatOrDouble\obj\x86\Debug\02FloatOrDouble.exe
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\02FloatOrDouble\obj\x86\Debug\02FloatOrDouble.pdb

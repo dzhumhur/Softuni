@@ -1,6 +1,0 @@
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\11RandomNumbersInGivenRange\bin\Debug\11RandomNumbersInGivenRange.exe
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\11RandomNumbersInGivenRange\bin\Debug\11RandomNumbersInGivenRange.pdb
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\11RandomNumbersInGivenRange\obj\x86\Debug\11RandomNumbersInGivenRange.exe
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\11RandomNumbersInGivenRange\obj\x86\Debug\11RandomNumbersInGivenRange.pdb
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\11RandomNumbersInGivenRange\obj\x86\Debug\11RandomNumbersInGivenRange.exe
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\11RandomNumbersInGivenRange\obj\x86\Debug\11RandomNumbersInGivenRange.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\14SumOfElements\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\14SumOfElements\bin\Debug\14SumOfElements.exe
+D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\14SumOfElements\bin\Debug\14SumOfElements.pdb
+D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\14SumOfElements\obj\x86\Debug\14SumOfElements.exe
+D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\14SumOfElements\obj\x86\Debug\14SumOfElements.pdb

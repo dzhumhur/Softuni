@@ -1,6 +1,0 @@
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\04PrintDeck52Cards\bin\Debug\04PrintDeck52Cards.exe
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\04PrintDeck52Cards\bin\Debug\04PrintDeck52Cards.pdb
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\04PrintDeck52Cards\obj\x86\Debug\04PrintDeck52Cards.exe
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\04PrintDeck52Cards\obj\x86\Debug\04PrintDeck52Cards.pdb
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\04PrintDeck52Cards\obj\x86\Debug\04PrintDeck52Cards.exe
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\04PrintDeck52Cards\obj\x86\Debug\04PrintDeck52Cards.pdb

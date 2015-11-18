@@ -1,5 +1,0 @@
-D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\06Four-DigitNumber\bin\Debug\06Four-DigitNumber.exe
-D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\06Four-DigitNumber\bin\Debug\06Four-DigitNumber.pdb
-D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\06Four-DigitNumber\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\06Four-DigitNumber\obj\x86\Debug\06Four-DigitNumber.exe
-D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\06Four-DigitNumber\obj\x86\Debug\06Four-DigitNumber.pdb

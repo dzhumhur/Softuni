@@ -1,0 +1,6 @@
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\01.TablesMySolution\bin\Debug\01.TablesMySolution.exe.config
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\01.TablesMySolution\bin\Debug\01.TablesMySolution.exe
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\01.TablesMySolution\bin\Debug\01.TablesMySolution.pdb
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\01.TablesMySolution\obj\Debug\01.TablesMySolution.exe
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\01.TablesMySolution\obj\Debug\01.TablesMySolution.pdb
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\01.TablesMySolution\obj\Debug\01.TablesMySolution.csprojResolveAssemblyReference.cache

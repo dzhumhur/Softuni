@@ -1,0 +1,6 @@
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\04.CheesQuens\bin\Debug\04.CheesQuens.exe.config
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\04.CheesQuens\obj\Debug\04.CheesQuens.csprojResolveAssemblyReference.cache
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\04.CheesQuens\bin\Debug\04.CheesQuens.exe
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\04.CheesQuens\bin\Debug\04.CheesQuens.pdb
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\04.CheesQuens\obj\Debug\04.CheesQuens.exe
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\04.CheesQuens\obj\Debug\04.CheesQuens.pdb

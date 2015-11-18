@@ -1,0 +1,6 @@
+C:\Users\Djumi\Desktop\Exam08November2014\08November2014\Problem4\bin\Debug\Problem4.exe.config
+C:\Users\Djumi\Desktop\Exam08November2014\08November2014\Problem4\bin\Debug\Problem4.exe
+C:\Users\Djumi\Desktop\Exam08November2014\08November2014\Problem4\bin\Debug\Problem4.pdb
+C:\Users\Djumi\Desktop\Exam08November2014\08November2014\Problem4\obj\Debug\Problem4.exe
+C:\Users\Djumi\Desktop\Exam08November2014\08November2014\Problem4\obj\Debug\Problem4.pdb
+C:\Users\Djumi\Desktop\Exam08November2014\08November2014\Problem4\obj\Debug\Problem4.csprojResolveAssemblyReference.cache

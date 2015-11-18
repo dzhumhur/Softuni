@@ -1,5 +1,0 @@
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem15AgeNowAndAfterTenYears\bin\Debug\Problem15AgeNowAndAfterTenYears.exe
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem15AgeNowAndAfterTenYears\bin\Debug\Problem15AgeNowAndAfterTenYears.pdb
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem15AgeNowAndAfterTenYears\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem15AgeNowAndAfterTenYears\obj\x86\Debug\Problem15AgeNowAndAfterTenYears.exe
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem15AgeNowAndAfterTenYears\obj\x86\Debug\Problem15AgeNowAndAfterTenYears.pdb

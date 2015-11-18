@@ -1,5 +1,0 @@
-D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\04Rectangles\bin\Debug\04Rectangles.exe
-D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\04Rectangles\bin\Debug\04Rectangles.pdb
-D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\04Rectangles\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\04Rectangles\obj\x86\Debug\04Rectangles.exe
-D:\SoftUni\C# Basic\03.OperatorsExpressionsAndStatements\Homework\OperatorExpressionStatement-Homework\04Rectangles\obj\x86\Debug\04Rectangles.pdb

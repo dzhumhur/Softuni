@@ -1,5 +1,0 @@
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem06.PrintNumbers\bin\Debug\Problem06.PrintNumbers.exe
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem06.PrintNumbers\bin\Debug\Problem06.PrintNumbers.pdb
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem06.PrintNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem06.PrintNumbers\obj\x86\Debug\Problem06.PrintNumbers.exe
-c:\documents and settings\administrator\my documents\visual studio 2010\Projects\IntroToProgramming-Homework\Problem06.PrintNumbers\obj\x86\Debug\Problem06.PrintNumbers.pdb

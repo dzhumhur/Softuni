@@ -1,0 +1,6 @@
+E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\05CalculateNfactXnth\bin\Debug\05CalculateNfactXnth.exe
+E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\05CalculateNfactXnth\bin\Debug\05CalculateNfactXnth.pdb
+E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\05CalculateNfactXnth\obj\x86\Debug\05CalculateNfactXnth.exe
+E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\05CalculateNfactXnth\obj\x86\Debug\05CalculateNfactXnth.pdb
+D:\SoftUni\C# Basic\06.Loops\Loops-Homework\05CalculateNfactXnth\obj\x86\Debug\05CalculateNfactXnth.exe
+D:\SoftUni\C# Basic\06.Loops\Loops-Homework\05CalculateNfactXnth\obj\x86\Debug\05CalculateNfactXnth.pdb

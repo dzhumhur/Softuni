@@ -1,9 +1,0 @@
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\02NumbersNotDivBy3And7\bin\Debug\02NumbersNotDivBy3And7.exe
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\02NumbersNotDivBy3And7\bin\Debug\02NumbersNotDivBy3And7.pdb
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\02NumbersNotDivBy3And7\obj\x86\Debug\02NumbersNotDivBy3And7.exe
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\02NumbersNotDivBy3And7\obj\x86\Debug\02NumbersNotDivBy3And7.pdb
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\02NumbersNotDivBy3And7\obj\x86\Debug\02NumbersNotDivBy3And7.exe
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\02NumbersNotDivBy3And7\obj\x86\Debug\02NumbersNotDivBy3And7.pdb
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\02NumbersNotDivBy3And7\bin\Debug\02NumbersNotDivBy3And7.exe
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\02NumbersNotDivBy3And7\bin\Debug\02NumbersNotDivBy3And7.pdb
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\02NumbersNotDivBy3And7\obj\x86\Debug\ResolveAssemblyReference.cache

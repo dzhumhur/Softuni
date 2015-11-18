@@ -1,6 +1,0 @@
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\03MinMaxSumAverageOfNNumbers\bin\Debug\03MinMaxSumAverageOfNNumbers.exe
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\03MinMaxSumAverageOfNNumbers\bin\Debug\03MinMaxSumAverageOfNNumbers.pdb
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\03MinMaxSumAverageOfNNumbers\obj\x86\Debug\03MinMaxSumAverageOfNNumbers.exe
-E:\DOWNLOADS\C# Basic\06.Loops\Loops-Homework\03MinMaxSumAverageOfNNumbers\obj\x86\Debug\03MinMaxSumAverageOfNNumbers.pdb
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\03MinMaxSumAverageOfNNumbers\obj\x86\Debug\03MinMaxSumAverageOfNNumbers.exe
-D:\SoftUni\C# Basic\06.Loops\Loops-Homework\03MinMaxSumAverageOfNNumbers\obj\x86\Debug\03MinMaxSumAverageOfNNumbers.pdb

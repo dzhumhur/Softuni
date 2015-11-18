@@ -1,6 +1,0 @@
-C:\Users\Djumi\Desktop\Exam-25July2014\Exam22JulyMorning\02.LettersSymbolsNumbers\bin\Debug\02.LettersSymbolsNumbers.exe.config
-C:\Users\Djumi\Desktop\Exam-25July2014\Exam22JulyMorning\02.LettersSymbolsNumbers\bin\Debug\02.LettersSymbolsNumbers.exe
-C:\Users\Djumi\Desktop\Exam-25July2014\Exam22JulyMorning\02.LettersSymbolsNumbers\bin\Debug\02.LettersSymbolsNumbers.pdb
-C:\Users\Djumi\Desktop\Exam-25July2014\Exam22JulyMorning\02.LettersSymbolsNumbers\obj\Debug\02.LettersSymbolsNumbers.csprojResolveAssemblyReference.cache
-C:\Users\Djumi\Desktop\Exam-25July2014\Exam22JulyMorning\02.LettersSymbolsNumbers\obj\Debug\02.LettersSymbolsNumbers.exe
-C:\Users\Djumi\Desktop\Exam-25July2014\Exam22JulyMorning\02.LettersSymbolsNumbers\obj\Debug\02.LettersSymbolsNumbers.pdb

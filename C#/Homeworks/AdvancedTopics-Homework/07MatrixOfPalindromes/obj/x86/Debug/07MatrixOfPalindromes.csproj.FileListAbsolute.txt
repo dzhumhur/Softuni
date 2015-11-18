@@ -1,5 +1,0 @@
-D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\07MatrixOfPalindromes\bin\Debug\07MatrixOfPalindromes.exe
-D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\07MatrixOfPalindromes\bin\Debug\07MatrixOfPalindromes.pdb
-D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\07MatrixOfPalindromes\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\07MatrixOfPalindromes\obj\x86\Debug\07MatrixOfPalindromes.exe
-D:\SoftUni\C# Basic\07.CSharpAdvancedTopics\AdvancedTopics-Homework\07MatrixOfPalindromes\obj\x86\Debug\07MatrixOfPalindromes.pdb

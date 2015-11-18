@@ -1,0 +1,6 @@
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\02.BookOrdersMySolution\bin\Debug\02.BookOrdersMySolution.exe.config
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\02.BookOrdersMySolution\bin\Debug\02.BookOrdersMySolution.exe
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\02.BookOrdersMySolution\bin\Debug\02.BookOrdersMySolution.pdb
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\02.BookOrdersMySolution\obj\Debug\02.BookOrdersMySolution.csprojResolveAssemblyReference.cache
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\02.BookOrdersMySolution\obj\Debug\02.BookOrdersMySolution.exe
+C:\Users\Djumi\Desktop\ExamPreparation-22August2014\Exam22August2014\02.BookOrdersMySolution\obj\Debug\02.BookOrdersMySolution.pdb

@@ -1,0 +1,5 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\05BooleanVariable\bin\Debug\05BooleanVariable.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\05BooleanVariable\bin\Debug\05BooleanVariable.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\05BooleanVariable\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\05BooleanVariable\obj\x86\Debug\05BooleanVariable.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DataTypesAndVariables-Homework\05BooleanVariable\obj\x86\Debug\05BooleanVariable.pdb

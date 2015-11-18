@@ -1,6 +1,0 @@
-C:\Users\Djumi\Desktop\Exam14AprilEvening\03.1 ProgrammerDNA2\bin\Debug\03.1 ProgrammerDNA2.exe.config
-C:\Users\Djumi\Desktop\Exam14AprilEvening\03.1 ProgrammerDNA2\bin\Debug\03.1 ProgrammerDNA2.exe
-C:\Users\Djumi\Desktop\Exam14AprilEvening\03.1 ProgrammerDNA2\bin\Debug\03.1 ProgrammerDNA2.pdb
-C:\Users\Djumi\Desktop\Exam14AprilEvening\03.1 ProgrammerDNA2\obj\Debug\03.1 ProgrammerDNA2.csprojResolveAssemblyReference.cache
-C:\Users\Djumi\Desktop\Exam14AprilEvening\03.1 ProgrammerDNA2\obj\Debug\03.1 ProgrammerDNA2.exe
-C:\Users\Djumi\Desktop\Exam14AprilEvening\03.1 ProgrammerDNA2\obj\Debug\03.1 ProgrammerDNA2.pdb

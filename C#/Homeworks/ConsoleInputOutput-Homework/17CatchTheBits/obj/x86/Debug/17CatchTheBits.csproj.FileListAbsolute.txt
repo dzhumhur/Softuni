@@ -1,5 +1,0 @@
-D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\17CatchTheBits\bin\Debug\17CatchTheBits.exe
-D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\17CatchTheBits\bin\Debug\17CatchTheBits.pdb
-D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\17CatchTheBits\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\17CatchTheBits\obj\x86\Debug\17CatchTheBits.exe
-D:\SoftUni\C# Basic\04.Console Input and Output\Homework\ConsoleInputOutput-Homework\17CatchTheBits\obj\x86\Debug\17CatchTheBits.pdb

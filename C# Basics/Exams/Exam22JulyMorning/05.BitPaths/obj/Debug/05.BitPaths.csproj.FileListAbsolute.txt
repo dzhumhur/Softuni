@@ -1,0 +1,6 @@
+C:\Users\Djumi\Desktop\Exam-25July2014\Exam22JulyMorning\05.BitPaths\bin\Debug\05.BitPaths.exe.config
+C:\Users\Djumi\Desktop\Exam-25July2014\Exam22JulyMorning\05.BitPaths\bin\Debug\05.BitPaths.exe
+C:\Users\Djumi\Desktop\Exam-25July2014\Exam22JulyMorning\05.BitPaths\bin\Debug\05.BitPaths.pdb
+C:\Users\Djumi\Desktop\Exam-25July2014\Exam22JulyMorning\05.BitPaths\obj\Debug\05.BitPaths.csprojResolveAssemblyReference.cache
+C:\Users\Djumi\Desktop\Exam-25July2014\Exam22JulyMorning\05.BitPaths\obj\Debug\05.BitPaths.exe
+C:\Users\Djumi\Desktop\Exam-25July2014\Exam22JulyMorning\05.BitPaths\obj\Debug\05.BitPaths.pdb
