@@ -63,7 +63,7 @@
 
         public override string ToString()
         {
-            return string.Format("-Type: {0}\n-Title: {1}\n-Author: {2}\n-Price: {3}",
+            return string.Format("-Type: {0}\n-Title: {1}\n-Author: {2}\n-Price: {3:F2}",
                                this.GetType().Name,
                                this.Title,
                                this.Author,
