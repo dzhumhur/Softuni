@@ -1,0 +1,7 @@
+E:\DISK D\Softuni-Projects\Fundamental Level\High Quality Code - January 2016\Exercise In Class\SOLID Principles\NinjectIoCContainer\bin\Debug\NinjectIoCContainer.exe
+E:\DISK D\Softuni-Projects\Fundamental Level\High Quality Code - January 2016\Exercise In Class\SOLID Principles\NinjectIoCContainer\bin\Debug\NinjectIoCContainer.pdb
+E:\DISK D\Softuni-Projects\Fundamental Level\High Quality Code - January 2016\Exercise In Class\SOLID Principles\NinjectIoCContainer\bin\Debug\Ninject.dll
+E:\DISK D\Softuni-Projects\Fundamental Level\High Quality Code - January 2016\Exercise In Class\SOLID Principles\NinjectIoCContainer\bin\Debug\Ninject.xml
+E:\DISK D\Softuni-Projects\Fundamental Level\High Quality Code - January 2016\Exercise In Class\SOLID Principles\NinjectIoCContainer\obj\Debug\Ninject-IoC-Container.csprojResolveAssemblyReference.cache
+E:\DISK D\Softuni-Projects\Fundamental Level\High Quality Code - January 2016\Exercise In Class\SOLID Principles\NinjectIoCContainer\obj\Debug\NinjectIoCContainer.exe
+E:\DISK D\Softuni-Projects\Fundamental Level\High Quality Code - January 2016\Exercise In Class\SOLID Principles\NinjectIoCContainer\obj\Debug\NinjectIoCContainer.pdb
