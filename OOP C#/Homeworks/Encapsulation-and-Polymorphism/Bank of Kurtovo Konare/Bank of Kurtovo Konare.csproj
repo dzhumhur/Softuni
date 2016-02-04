@@ -43,12 +43,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bank\Accounts\Account.cs" />
+    <Compile Include="Bank\Accounts\Deposit.cs" />
+    <Compile Include="Bank\Accounts\Loan.cs" />
+    <Compile Include="Bank\Accounts\Mortgage.cs" />
+    <Compile Include="Bank\Customers\Company.cs" />
+    <Compile Include="Bank\Customers\Customer.cs" />
+    <Compile Include="Bank\Customers\Individual.cs" />
     <Compile Include="ConsoleClient.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
